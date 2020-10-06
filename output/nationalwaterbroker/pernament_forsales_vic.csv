@@ -1,0 +1,10 @@
+,Volume (ML),Price ($)/ML,State,Zone/Details,Split
+0,25,4700,Vic High Reliability,Zone 6,no
+1,25,4700,Vic High Reliability DRY,Zone 6,no
+2,500,410,Vic Low-Reliability,1B Boort,Yes
+3,336,480,Vic Low-Reliability,1A Goulburn,yes
+4,102,480,Vic Low-Reliability,1A Goulburn,no
+5,108,500,Vic Low-Reliability,1A Goulburn,No
+6,47.5,500,Victorian Low Reliability,Goulburn 1A,Yes
+7,60.5,500,Victorian Low Reliability,Goulburn 1A,Yes
+8,10-60,4500,Vic High Reliability,Vic Murray 6,No

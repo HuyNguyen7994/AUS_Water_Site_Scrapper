@@ -1,0 +1,11 @@
+,Side,Zone,Class,Volume (ML),Start date,Period,Price,Comment
+1,Buy,Goulburn 1A,LR,1000.0,1 June 2021,3 years,$20,
+2,Buy,Murray 7,HR,100.0,1 July 2020,3 years,$300,
+3,Sell,Goulburn 1A,HR,200.0,1 July 2020,3+ years,$300,
+4,Sell,Goulburn 1A,HR,1650.0,1 July 2020,4+ years,$300,
+5,Sell,Murray 11,HS,1261.0,1 July 2020,4+ years,$600,
+6,Sell,Murray 7,HR,600.0,1 July 2020,4+ years,$360,
+7,Sell,Murray 7,HR,700.0,1 July 2020,3+ years,$400,
+8,Sell,Murrumbidgee 13,HS,363.0,1 July 2020,4+ years,$600,
+9,Sell,Murrumbidgee 13,HS,1000.0+,1 July 2021,3+ years,Offers,
+10,Sell,SA 12,HS,532.0,1 July 2021,3+ years,Offers,

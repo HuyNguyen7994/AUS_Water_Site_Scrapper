@@ -1,0 +1,35 @@
+,Side,Zone,Class,Volume (ML),Price,Comment
+1,Sell,Billabong Creek,Supp,883.0,offers,
+2,Sell,Goulburn 1A,HR,20.0,"$4,600",Dry
+3,Sell,Goulburn 1A,HR,340.0,"$4,950",Wet
+4,Sell,Goulburn 1A,HR,70.0,"$4,200",Dry
+5,Sell,Goulburn 1A,LR,496.0,$500,Dry
+6,Sell,Goulburn 1A,LR,52.8,$400,Dry
+7,Sell,Loddon 5A,HR,2.0,Offers,Wet
+8,Sell,Murray 11,HS,30.0,"$9,000",Wet
+9,Sell,Murray 6,HR,500.0,"$5,150",Dry
+10,Sell,Murray 6,HR,211.0,"$5,150",Dry
+11,Sell,Murray 6,HR,200.0,"$5,250",Dry
+12,Sell,Murray 6,HR,180.0,"$5,550",Dry
+13,Sell,Murray 6B,HR,20.0,"$6,200",Wet
+14,Sell,Murray 7,HR,2.0,5500 - 6000,Wet
+15,Sell,Murray 7,HR,3.0,"$6,100",Wet
+16,Sell,Murray 7,HR,5.0,"$7,200",Wet
+17,Sell,Murray 7,HR,10.0,"$7,200",Wet
+18,Sell,Murray 7,HR,18.0,"$7,200",Wet
+19,Sell,Murray 7,HR,18.6,"$7,200",Wet
+20,Sell,Murrumbidgee 13,HS,100.0,"$7,500",Dry
+21,Sell,Murrumbidgee 13,HS,300.0,"$8,000",Dry
+22,Sell,SA Murray 12,HS,12.0,"$7,500",Wet
+23,Buy,Goulburn 1A,HR,50.0,"$3,500",Dry
+24,Buy,Goulburn 1A,HR,100.0,"$3,500",Dry
+25,Buy,Goulburn 1A,LR,100.0,$380,Dry
+26,Buy,Goulburn 1A,LR,50.0,$380,Dry
+27,Buy,Loddon 5A,HR,2.0,offers,
+28,Buy,Murray 11,HS,100.0,offers,
+29,Buy,Murray 6,HR,30.0,"$4,500",Wet
+30,Buy,Murray 7,HR,4.0,"$5,300",Wet
+31,Buy,Murray 7,HR,25.0,"$6,100",Wet
+32,Buy,Murray 7,HR,30.0,"$5,900",Dry
+33,Buy,Murray 7,HR,200.0,offers,
+34,Buy,Murray 7,LR,100.0,$600,Dry

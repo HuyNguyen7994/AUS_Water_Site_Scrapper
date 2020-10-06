@@ -1,0 +1,13 @@
+,Volume (ML),Price,State,Zone / Details,Split?
+0,any parcels,10000,SA,Class 1 or 5,y
+1,50,6500,SA,Class 3,yes
+2,6,7000 dry,SA,Class 3,no
+3,50,6500,SA,Class 3a,no
+4,100,6000,SA,Class 3A wet,yes
+5,200,$6000,SA,Class 3a,Y
+6,10,2500,SA,EMLR Northern Kanmantoo Zone,N
+7,40,2000,SA,WMLR Western Branch Surface,Y
+8,5,1500,,WMLR - Western Branch MZ,m
+9,5,2500,SA,WMLR Upper Onkaparinga Management Zone,
+10,2,2000,SA,McLaren Vale groundwater. West flault,n
+11,2-5,2000,SA,WMLR Western Branch Underground,Y
