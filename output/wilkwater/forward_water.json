@@ -1,0 +1,192 @@
+{
+  "For Sale - All Areas": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "Murrumbidgee Valley",
+      "Source": "Murrumbidgee Valley",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "Murray Valley",
+      "Source": "Murray Valley",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "Lachlan River",
+      "Source": "Lachlan River",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "South Australia",
+      "Source": "South Australia",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "Groundwater",
+      "Source": "Groundwater",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": "Supplementary",
+      "Source": "Supplementary",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "Past Sales - All Areas": [
+    {
+      "Additional information": "Murrumbidgee Irrigation",
+      "Date": "23/06/20",
+      "ML": 200,
+      "Price ($)/ML": "$300"
+    },
+    {
+      "Additional information": "Murrumbidgee Irrigation",
+      "Date": "19/06/20",
+      "ML": 50,
+      "Price ($)/ML": "$300"
+    },
+    {
+      "Additional information": "Murray Irrigation",
+      "Date": "16/06/20",
+      "ML": 500,
+      "Price ($)/ML": "$320"
+    },
+    {
+      "Additional information": "Murrumbidgee Irrigation",
+      "Date": "24/02/20",
+      "ML": 1000,
+      "Price ($)/ML": "$650"
+    },
+    {
+      "Additional information": "Murrumbidgee Irrigation",
+      "Date": "24/02/20",
+      "ML": 1500,
+      "Price ($)/ML": "$630"
+    }
+  ],
+  "Wanted - All Areas": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": "Murrumbidgee Valley",
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": "NSW Murray",
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": "Lachlan River",
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": "Groundwater",
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": "Supplementary",
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ]
+}

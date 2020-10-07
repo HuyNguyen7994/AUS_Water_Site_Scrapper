@@ -1,0 +1,174 @@
+{
+  "Last Permanent Trades": [
+    {
+      "0": "Murrumbidgee High Security",
+      "1": "$7200 dry"
+    },
+    {
+      "0": "Murrumbidgee General Security",
+      "1": "$2150/ML wet"
+    },
+    {
+      "0": "Murrumbidgee Supplementary",
+      "1": "$800/ML wet"
+    },
+    {
+      "0": "NSW (above) General Security",
+      "1": "$1500/ML wet"
+    },
+    {
+      "0": "NSW (above) High Security",
+      "1": "$7500/ML wet"
+    },
+    {
+      "0": "NSW (below) High Security",
+      "1": "$8000/ML wet"
+    },
+    {
+      "0": "NSW (below) General Security",
+      "1": "$2100/ML dry"
+    },
+    {
+      "0": "VIC Murray (above) High Reliability",
+      "1": "$4400/ML wet"
+    },
+    {
+      "0": "VIC Murray (above) Low Reliability",
+      "1": "$550/ML dry"
+    },
+    {
+      "0": "VIC Murray (below) High Reliability",
+      "1": "$6425/ML wet"
+    },
+    {
+      "0": "VIC Murray (below) Low Reliability",
+      "1": "$895ML dry 1400ML"
+    },
+    {
+      "0": "VIC Goulburn High Reliability",
+      "1": "$4075/ML wet"
+    },
+    {
+      "0": "VIC Goulburn Low Reliability",
+      "1": "$400/ML dry"
+    },
+    {
+      "0": "SA- Class 3",
+      "1": "$6900/ML wet"
+    },
+    {
+      "0": "Lachlan High Security",
+      "1": "$4500/ML wet"
+    },
+    {
+      "0": "Lachlan General Security",
+      "1": "$1250/ML"
+    },
+    {
+      "0": "Lower Lachlan Groundwater",
+      "1": "$3800/ML"
+    },
+    {
+      "0": "Lower Murrumbidgee Groundwater Zone 1",
+      "1": "$4800/ML wet"
+    },
+    {
+      "0": "Lower Murrumbidgee Groundwater Zone 2",
+      "1": "$4500/ML wet"
+    },
+    {
+      "0": "Lower Murrumbidgee Groundwater Zone 3",
+      "1": "$4350/ML wet"
+    },
+    {
+      "0": "Macquarie High Security",
+      "1": "$4300/ML"
+    },
+    {
+      "0": "Macquarie General Security",
+      "1": "$1850/ML"
+    },
+    {
+      "0": "Lower Namoi General Security",
+      "1": "$2900/ML"
+    },
+    {
+      "0": "Upper Namoi General Security",
+      "1": "$2500/ML"
+    },
+    {
+      "0": "Gwydir General Security",
+      "1": "$2300/ML"
+    },
+    {
+      "0": "Lower Murray Groundwater",
+      "1": "$2900/ML"
+    },
+    {
+      "0": "Border Rivers A",
+      "1": "$3850/ML"
+    },
+    {
+      "0": "Border Rivers B",
+      "1": "$2250/ML"
+    }
+  ],
+  "Last Temporary Trades": [
+    {
+      "0": "Murrumbidgee Internal",
+      "1": "$160/ML"
+    },
+    {
+      "0": "NSW Murray (above-MIL)",
+      "1": "$180/ML"
+    },
+    {
+      "0": "NSW Murray (below)",
+      "1": "$270/ML"
+    },
+    {
+      "0": "VIC Murray (above)",
+      "1": "$180/ML"
+    },
+    {
+      "0": "VIC Murray (below)",
+      "1": "$270/ML"
+    },
+    {
+      "0": "VIC Goulburn",
+      "1": "$170/ML"
+    },
+    {
+      "0": "Lachlan",
+      "1": "$130-$150/ML"
+    },
+    {
+      "0": "Lower Murrumbidgee Groundwater",
+      "1": "$100/ML"
+    },
+    {
+      "0": "Lower Murray Groundwater",
+      "1": "$80/ML"
+    },
+    {
+      "0": "Lower Lachlan Groundwater",
+      "1": "$150/ML"
+    },
+    {
+      "0": "Macquarie",
+      "1": "$200/ML"
+    },
+    {
+      "0": "Namoi",
+      "1": "$200/ML"
+    },
+    {
+      "0": "Gwydir",
+      "1": "$300/ML"
+    },
+    {
+      "0": "Border Rivers",
+      "1": "$411/ML"
+    }
+  ]
+}

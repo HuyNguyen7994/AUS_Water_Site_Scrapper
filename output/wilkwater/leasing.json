@@ -1,0 +1,49 @@
+{
+  "For Sale": [
+    {
+      "Additional information": "3 - 5 Years",
+      "Price ($)/ML": "EOI",
+      "Seller Ref.": "L5028",
+      "Source": "Mid Murrumbidgee Groundwater Zone 3",
+      "Volume": 200
+    }
+  ],
+  "Past Sales": [
+    {
+      "ML": "200ML",
+      "Price ($)/ML": "$600.00"
+    },
+    {
+      "ML": "250ML",
+      "Price ($)/ML": "$600.00"
+    },
+    {
+      "ML": "100ML",
+      "Price ($)/ML": "$600.00"
+    },
+    {
+      "ML": "200ML",
+      "Price ($)/ML": "$550.00"
+    },
+    {
+      "ML": "200ML",
+      "Price ($)/ML": "$525.00"
+    }
+  ],
+  "Wanted": [
+    {
+      "Additional information": "5 years",
+      "Buyer No.": "L5023",
+      "Price ($)/ML": "By negotiation",
+      "Source": "Lower Murrumbidgee Groundwater Zone 3",
+      "Volume": 1200.0
+    },
+    {
+      "Additional information": null,
+      "Buyer No.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume": null
+    }
+  ]
+}

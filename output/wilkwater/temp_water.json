@@ -1,0 +1,561 @@
+{
+  "For Sale - Groundwater - Temporary": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Lower Murrumbidgee",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Wagga Wagga Alluvial",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Mid Murrumbidgee Zone 3",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Lower Murray",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Orange Basalt",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "Market Value",
+      "Seller Ref.": 5367.0,
+      "Source": "Orange Basalt Groundwater",
+      "Volume (ML)": 342.0
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Upper Murray",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Lachlan Fold Belt MDB",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": "Upper Lachlan",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": "will sell in smaller parcels",
+      "Price ($)/ML": "Call for Price",
+      "Seller Ref.": 5371.0,
+      "Source": "Upper Lachlan Zone 8",
+      "Volume (ML)": 400.0
+    }
+  ],
+  "For Sale - Lachlan Valley - Temporary": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$220",
+      "Seller Ref.": 17294,
+      "Volume (ML)": 90
+    },
+    {
+      "Additional Information": "Take water",
+      "Price ($)/ML": "$210",
+      "Seller Ref.": 17255,
+      "Volume (ML)": 200
+    }
+  ],
+  "For Sale - Murrumbidgee Valley - Temporary - No Buyers Commission": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$150",
+      "Seller Ref.": 17307,
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 350
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$180",
+      "Seller Ref.": 17291,
+      "Source": "Murrumbidgee River",
+      "Volume (ML)": 75
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$180",
+      "Seller Ref.": 17306,
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 200
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$200",
+      "Seller Ref.": 17263,
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 25
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$220",
+      "Seller Ref.": 17260,
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 230
+    },
+    {
+      "Additional Information": null,
+      "Price ($)/ML": "$270",
+      "Seller Ref.": 17275,
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 400
+    }
+  ],
+  "For Sale - NSW Murray Valley - Temporary - - No Buyers Commission": [
+    {
+      "Additional information": null,
+      "Price ($)/ML": "$260",
+      "Seller Ref.": 17308,
+      "Source": "NSW Murray - Zone 11",
+      "Volume (ML)": 28.5
+    },
+    {
+      "Additional information": null,
+      "Price ($)/ML": "$200",
+      "Seller Ref.": 17305,
+      "Source": "NSW MIL - Zone 10",
+      "Volume (ML)": 25.0
+    },
+    {
+      "Additional information": null,
+      "Price ($)/ML": "$300",
+      "Seller Ref.": 17286,
+      "Source": "NSW Murray Zone 11",
+      "Volume (ML)": 460.0
+    },
+    {
+      "Additional information": null,
+      "Price ($)/ML": "$300",
+      "Seller Ref.": 17287,
+      "Source": "NSW Murray Zone 11",
+      "Volume (ML)": 500.0
+    }
+  ],
+  "For Sale - Other Water Sources": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "For Sale - Supplementary - Temporary": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "For Sale - VIC Murray / Goulburn - Temporary - No Buyers Commission": [],
+  "Past Sales - Groundwater - Temporary": [
+    {
+      "Additional Information": "LMGW Zone 3",
+      "Date": "03/08/20",
+      "ML": 260,
+      "Price ($)/ML": "$150"
+    },
+    {
+      "Additional Information": "LMGW Zone 3",
+      "Date": "24/07/20",
+      "ML": 1000,
+      "Price ($)/ML": "$150"
+    },
+    {
+      "Additional Information": "LMGW Zone 3",
+      "Date": "23/07/20",
+      "ML": 465,
+      "Price ($)/ML": "$150"
+    },
+    {
+      "Additional Information": "LMGW Zone 2",
+      "Date": "23/07/20",
+      "ML": 177,
+      "Price ($)/ML": "$150"
+    },
+    {
+      "Additional Information": "LMGW Zone 3",
+      "Date": "15/07/20",
+      "ML": 800,
+      "Price ($)/ML": "$150"
+    }
+  ],
+  "Past Sales - Lachlan Valley - Temporary": [
+    {
+      "Date": "03/03/20",
+      "ML": 317.0,
+      "Price ($)/ML": "$480"
+    },
+    {
+      "Date": "26/02/20",
+      "ML": 98.0,
+      "Price ($)/ML": "$480"
+    },
+    {
+      "Date": "26/02/20",
+      "ML": 19.6,
+      "Price ($)/ML": "$480"
+    },
+    {
+      "Date": "26/02/20",
+      "ML": 5.9,
+      "Price ($)/ML": "$480"
+    }
+  ],
+  "Past Sales - Murrumbidgee Valley - Temporary": [
+    {
+      "Date": "01/10/20",
+      "ML": 100,
+      "Price ($)/ML": "$155"
+    },
+    {
+      "Date": "29/09/20",
+      "ML": 400,
+      "Price ($)/ML": "$160"
+    },
+    {
+      "Date": "29/09/20",
+      "ML": 200,
+      "Price ($)/ML": "$155"
+    },
+    {
+      "Date": "28/09/20",
+      "ML": 200,
+      "Price ($)/ML": "$160"
+    },
+    {
+      "Date": "23/09/20",
+      "ML": 1000,
+      "Price ($)/ML": "$170"
+    }
+  ],
+  "Past Sales - NSW Murray Valley - Temporary": [
+    {
+      "Date": "29/09/2020",
+      "ML": 235,
+      "Price ($)/ML": "$280"
+    },
+    {
+      "Date": "22/09/20",
+      "ML": 500,
+      "Price ($)/ML": "$270"
+    },
+    {
+      "Date": "16/09/20",
+      "ML": 100,
+      "Price ($)/ML": "$300"
+    },
+    {
+      "Date": "15/09/20",
+      "ML": 1000,
+      "Price ($)/ML": "$300"
+    },
+    {
+      "Date": "15/09/20",
+      "ML": 500,
+      "Price ($)/ML": "$300"
+    },
+    {
+      "Date": "15/09/20",
+      "ML": 500,
+      "Price ($)/ML": "$300"
+    }
+  ],
+  "Past Sales - Other Water Sources": [
+    {
+      "Additional Information": null,
+      "Date": null,
+      "ML": null,
+      "Price ($)/ML": null
+    }
+  ],
+  "Past Sales - Supplementary - Temporary": [
+    {
+      "Additional information": "River",
+      "Date": "31/08/20",
+      "ML": 600.0,
+      "Price ($)/ML": "$52.50"
+    },
+    {
+      "Additional information": "River",
+      "Date": "31/08/20",
+      "ML": 10.0,
+      "Price ($)/ML": "$55"
+    },
+    {
+      "Additional information": "River",
+      "Date": "31/08/20",
+      "ML": 772.5,
+      "Price ($)/ML": "$50"
+    },
+    {
+      "Additional information": "MIA",
+      "Date": "28/08/20",
+      "ML": 18.0,
+      "Price ($)/ML": "$60"
+    },
+    {
+      "Additional information": "River",
+      "Date": "27/08/20",
+      "ML": 175.0,
+      "Price ($)/ML": "$65"
+    }
+  ],
+  "Past Sales - VIC Murray / Goulburn - Temporary": [
+    {
+      "Date": "01/10/20",
+      "ML": 150,
+      "Price ($)/ML": "$200",
+      "Zone": "Vic Zone 6"
+    },
+    {
+      "Date": "29/09/20",
+      "ML": 50,
+      "Price ($)/ML": "$285",
+      "Zone": "Vic Zone 7"
+    },
+    {
+      "Date": "22/09/20",
+      "ML": 500,
+      "Price ($)/ML": "$270",
+      "Zone": "Vic Zone 7"
+    },
+    {
+      "Date": "16/09/20",
+      "ML": 509,
+      "Price ($)/ML": "$300",
+      "Zone": "Vic Zone 7"
+    },
+    {
+      "Date": "15/09/20",
+      "ML": 100,
+      "Price ($)/ML": "$300",
+      "Zone": "Vic Zone 7"
+    }
+  ],
+  "Wanted - Groundwater - Temporary": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Lower Murrumbidgee",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 5276.0,
+      "Price ($)/ML": "$100",
+      "Source": "Lower Murrumbidgee Groundwater Zone 3",
+      "Volume (ML)": 100.0
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 5275.0,
+      "Price ($)/ML": "$80 - $100",
+      "Source": "Lower Murrumbidgee Groundwater Zone 3",
+      "Volume (ML)": 500.0
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 5277.0,
+      "Price ($)/ML": "$80",
+      "Source": "Lower Murrumbidgee Groundwater Zone 3",
+      "Volume (ML)": 200.0
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Lower Lachlan",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Lower Murray",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 5369.0,
+      "Price ($)/ML": "Market Value",
+      "Source": "Lower Murray Groundwater",
+      "Volume (ML)": 40.0
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Mid Murrumbidgee Zone 3 Alluvial",
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "Wanted - Lachlan Valley - Temporary": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Please check back later for updated listings",
+      "Volume (ML)": null
+    }
+  ],
+  "Wanted - Murrumbidgee Valley - Temporary": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 17270,
+      "Price ($)/ML": "$135",
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 1000
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 17273,
+      "Price ($)/ML": "$120",
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 500
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": 17262,
+      "Price ($)/ML": "$100",
+      "Source": "Murrumbidgee Irrigation",
+      "Volume (ML)": 200
+    }
+  ],
+  "Wanted - NSW Murray Valley - Temporary": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": "Please check back later for further listings",
+      "Volume (ML)": null
+    }
+  ],
+  "Wanted - Other Water Sources": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "Wanted - Supplementary - Temporary": [],
+  "Wanted - VIC Murray / Goulburn - Temporary": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ]
+}

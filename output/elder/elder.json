@@ -1,0 +1,1013 @@
+{
+  "NSW Permanent Water": [
+    {
+      "NSW Permanent Water": [
+        [
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          }
+        ],
+        [
+          {
+            "ALLOCATION": "DRY",
+            "ID NUMBER": "B253",
+            "PRICE ($)*": 1850.0,
+            "REGION": "MACQUARIE GENERAL SECURITY",
+            "VOLUME (ML)": 385.0
+          },
+          {
+            "ALLOCATION": "DRY",
+            "ID NUMBER": "B254",
+            "PRICE ($)*": 2000.0,
+            "REGION": "UPPER MACQUARIE ALLUVIAL",
+            "VOLUME (ML)": 500.0
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          }
+        ]
+      ]
+    }
+  ],
+  "NSW Temporary Surface Water": [
+    {
+      "Murray Zone 10": [
+        [
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E101",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 60
+          },
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E100",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 290,
+            "REFERENCE NUMBER": null,
+            "TRADING REGION": "NSW 11",
+            "VOLUME (ML)": 500
+          },
+          {
+            "PRICE PER ML": 305,
+            "REFERENCE NUMBER": "B415",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 10
+          },
+          {
+            "PRICE PER ML": 400,
+            "REFERENCE NUMBER": "B424",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 50
+          },
+          {
+            "PRICE PER ML": 500,
+            "REFERENCE NUMBER": "D021",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "TRADING REGION",
+            "3": "REFERENCE NUMBER"
+          }
+        ],
+        [
+          {
+            "PRICE ($)*": 210,
+            "TRADE DATE": "16/09/20",
+            "TRADE NUMBER": 21074,
+            "VOLUME (ML)": 1000
+          },
+          {
+            "PRICE ($)*": 205,
+            "TRADE DATE": "11/09/20",
+            "TRADE NUMBER": 21067,
+            "VOLUME (ML)": 40
+          },
+          {
+            "PRICE ($)*": 205,
+            "TRADE DATE": "10/09/20",
+            "TRADE NUMBER": 21063,
+            "VOLUME (ML)": 700
+          },
+          {
+            "PRICE ($)*": 225,
+            "TRADE DATE": "15/07/20",
+            "TRADE NUMBER": 21021,
+            "VOLUME (ML)": 20
+          }
+        ]
+      ]
+    },
+    {
+      "Murray Zone 11": [
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "REGION",
+            "3": "REFERENCE"
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "REGION",
+            "3": "REFERENCE"
+          }
+        ],
+        [
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21076,
+            "VOLUME (ML)": 136
+          },
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21077,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 284.36,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21078,
+            "VOLUME (ML)": 75
+          },
+          {
+            "PRICE PER ML": 295.0,
+            "TRADE DATE": "16/09",
+            "TRADE NO": 21073,
+            "VOLUME (ML)": 1000
+          },
+          {
+            "PRICE PER ML": 305.24,
+            "TRADE DATE": "11/09",
+            "TRADE NO": 21064,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21053,
+            "VOLUME (ML)": 370
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21052,
+            "VOLUME (ML)": 133
+          },
+          {
+            "PRICE PER ML": 235.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21051,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 250.0,
+            "TRADE DATE": "25/08",
+            "TRADE NO": 21043,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 380.0,
+            "TRADE DATE": "10/07",
+            "TRADE NO": 21013,
+            "VOLUME (ML)": 100
+          }
+        ]
+      ]
+    },
+    {
+      "Murrumbidgee": [
+        [
+          {
+            "PRICE PER ML ($)*": 200.0,
+            "REFERENCE NUMBER": "A019",
+            "TRADING REGION": "Coleambally",
+            "VOLUME (ML)": 800.0
+          },
+          {
+            "PRICE PER ML ($)*": 170.0,
+            "REFERENCE NUMBER": null,
+            "TRADING REGION": "MIA",
+            "VOLUME (ML)": 50.0
+          },
+          {
+            "PRICE PER ML ($)*": null,
+            "REFERENCE NUMBER": null,
+            "TRADING REGION": null,
+            "VOLUME (ML)": null
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML ($)*",
+            "2": "TRADING REGION",
+            "3": "REFERENCE NUMBER"
+          }
+        ],
+        [
+          {
+            "BUYERS REGION": "Murrumbidgee",
+            "DATE": "24/08",
+            "PRICE ($)*": 155.0,
+            "TRADE NUMBER": 21044,
+            "VOLUME": 250
+          },
+          {
+            "BUYERS REGION": "Murrumbidgee",
+            "DATE": "22/08",
+            "PRICE ($)*": 148.0,
+            "TRADE NUMBER": 21038,
+            "VOLUME": 250
+          },
+          {
+            "BUYERS REGION": "Murrumbidgee",
+            "DATE": "14/08",
+            "PRICE ($)*": 182.5,
+            "TRADE NUMBER": 21036,
+            "VOLUME": 500
+          },
+          {
+            "BUYERS REGION": "VIC 6",
+            "DATE": "15/07",
+            "PRICE ($)*": 225.0,
+            "TRADE NUMBER": 21021,
+            "VOLUME": 20
+          },
+          {
+            "BUYERS REGION": "VIC 1A",
+            "DATE": "15/07",
+            "PRICE ($)*": 200.0,
+            "TRADE NUMBER": 21020,
+            "VOLUME": 50
+          },
+          {
+            "BUYERS REGION": "VIC 1A",
+            "DATE": "15/07",
+            "PRICE ($)*": 200.0,
+            "TRADE NUMBER": 21019,
+            "VOLUME": 50
+          },
+          {
+            "BUYERS REGION": "VIC 7",
+            "DATE": "10/07",
+            "PRICE ($)*": 380.0,
+            "TRADE NUMBER": 21013,
+            "VOLUME": 100
+          },
+          {
+            "BUYERS REGION": "VIC 7",
+            "DATE": "07/07",
+            "PRICE ($)*": 350.0,
+            "TRADE NUMBER": 21011,
+            "VOLUME": 150
+          },
+          {
+            "BUYERS REGION": "VIC 7",
+            "DATE": "07/07",
+            "PRICE ($)*": 360.0,
+            "TRADE NUMBER": 21012,
+            "VOLUME": 62
+          },
+          {
+            "BUYERS REGION": "VIC 7",
+            "DATE": "07/07",
+            "PRICE ($)*": 360.0,
+            "TRADE NUMBER": 21010,
+            "VOLUME": 88
+          }
+        ]
+      ]
+    }
+  ],
+  "SA Permanent Water": [
+    {
+      "SA Permanent Water": [
+        [
+          {
+            "ALLOCATION": "WET",
+            "ID NUMBER": "D254",
+            "PRICE ($)*": "7000",
+            "REGION": "SA Murray Class 3",
+            "VOLUME (ML)": 50.0
+          },
+          {
+            "ALLOCATION": "WET",
+            "ID NUMBER": "B097",
+            "PRICE ($)*": "3000",
+            "REGION": "Eastern Mount Lofty Ranges Groundwater",
+            "VOLUME (ML)": 35.96
+          },
+          {
+            "ALLOCATION": "WET",
+            "ID NUMBER": "B144",
+            "PRICE ($)*": "2975",
+            "REGION": "Angus Bremer Deep T1",
+            "VOLUME (ML)": 17.71
+          },
+          {
+            "ALLOCATION": "WET",
+            "ID NUMBER": "C109",
+            "PRICE ($)*": "11500",
+            "REGION": "SA Murray Class 1",
+            "VOLUME (ML)": 1.3
+          },
+          {
+            "ALLOCATION": "DRY",
+            "ID NUMBER": "C119",
+            "PRICE ($)*": "$7,000",
+            "REGION": "SA Murray Class 3",
+            "VOLUME (ML)": 110.0
+          }
+        ],
+        [
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          }
+        ]
+      ]
+    }
+  ],
+  "SA Temporary Surface Water": [
+    {
+      "SA Murray": [
+        [
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E101",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 60
+          },
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E100",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 290,
+            "REFERENCE NUMBER": null,
+            "TRADING REGION": "NSW 11",
+            "VOLUME (ML)": 500
+          },
+          {
+            "PRICE PER ML": 305,
+            "REFERENCE NUMBER": "B415",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 10
+          },
+          {
+            "PRICE PER ML": 400,
+            "REFERENCE NUMBER": "B424",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 50
+          },
+          {
+            "PRICE PER ML": 500,
+            "REFERENCE NUMBER": "D021",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "TRADING REGION",
+            "3": "REFERENCE NUMBER"
+          }
+        ],
+        [
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21076,
+            "VOLUME (ML)": 136
+          },
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21077,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 284.36,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21078,
+            "VOLUME (ML)": 75
+          },
+          {
+            "PRICE PER ML": 295.0,
+            "TRADE DATE": "16/09",
+            "TRADE NO": 21073,
+            "VOLUME (ML)": 1000
+          },
+          {
+            "PRICE PER ML": 305.24,
+            "TRADE DATE": "11/09",
+            "TRADE NO": 21064,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21053,
+            "VOLUME (ML)": 370
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21052,
+            "VOLUME (ML)": 133
+          },
+          {
+            "PRICE PER ML": 235.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21051,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 250.0,
+            "TRADE DATE": "25/08",
+            "TRADE NO": 21043,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 380.0,
+            "TRADE DATE": "10/07",
+            "TRADE NO": 21013,
+            "VOLUME (ML)": 100
+          }
+        ]
+      ]
+    }
+  ],
+  "Victoria Permanent Water": [
+    {
+      "VIC Permanent Water": [
+        [
+          {
+            "ALLOCATION": "DRY",
+            "ID NUMBER": "B213",
+            "PRICE ($)*": 4500,
+            "REGION": "Goulburn 1A HR",
+            "VOLUME": 55
+          }
+        ],
+        [
+          {
+            "ALLOCATION": "DRY",
+            "ID NUMBER": "B417",
+            "PRICE ($)*": 660.0,
+            "REGION": "VIC 7 LOW",
+            "VOLUME (ML)": 100.0
+          },
+          {
+            "ALLOCATION": null,
+            "ID NUMBER": null,
+            "PRICE ($)*": null,
+            "REGION": null,
+            "VOLUME (ML)": null
+          }
+        ]
+      ]
+    }
+  ],
+  "Victoria Temporary Surface Water": [
+    {
+      "Murray Zone 6": [
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "REGION",
+            "3": "REFERENCE"
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "REGION",
+            "3": "REFERENCE"
+          }
+        ],
+        [
+          {
+            "PRICE ($)*": 210,
+            "TRADE DATE": "16/09/20",
+            "TRADE NUMBER": 21074,
+            "VOLUME (ML)": 1000
+          },
+          {
+            "PRICE ($)*": 205,
+            "TRADE DATE": "11/09/20",
+            "TRADE NUMBER": 21067,
+            "VOLUME (ML)": 40
+          },
+          {
+            "PRICE ($)*": 205,
+            "TRADE DATE": "10/09/20",
+            "TRADE NUMBER": 21063,
+            "VOLUME (ML)": 700
+          },
+          {
+            "PRICE ($)*": 225,
+            "TRADE DATE": "15/07/20",
+            "TRADE NUMBER": 21021,
+            "VOLUME (ML)": 20
+          }
+        ]
+      ]
+    },
+    {
+      "Murray Zone 7": [
+        [
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E101",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 60
+          },
+          {
+            "PRICE PER ML": 350,
+            "REFERENCE NUMBER": "E100",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 290,
+            "REFERENCE NUMBER": null,
+            "TRADING REGION": "NSW 11",
+            "VOLUME (ML)": 500
+          },
+          {
+            "PRICE PER ML": 305,
+            "REFERENCE NUMBER": "B415",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 10
+          },
+          {
+            "PRICE PER ML": 400,
+            "REFERENCE NUMBER": "B424",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 50
+          },
+          {
+            "PRICE PER ML": 500,
+            "REFERENCE NUMBER": "D021",
+            "TRADING REGION": "SA MURRAY",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "0": "VOLUME (ML)",
+            "1": "PRICE PER ML",
+            "2": "TRADING REGION",
+            "3": "REFERENCE NUMBER"
+          }
+        ],
+        [
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21076,
+            "VOLUME (ML)": 136
+          },
+          {
+            "PRICE PER ML": 300.0,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21077,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 284.36,
+            "TRADE DATE": "18/09",
+            "TRADE NO": 21078,
+            "VOLUME (ML)": 75
+          },
+          {
+            "PRICE PER ML": 295.0,
+            "TRADE DATE": "16/09",
+            "TRADE NO": 21073,
+            "VOLUME (ML)": 1000
+          },
+          {
+            "PRICE PER ML": 305.24,
+            "TRADE DATE": "11/09",
+            "TRADE NO": 21064,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21053,
+            "VOLUME (ML)": 370
+          },
+          {
+            "PRICE PER ML": 237.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21052,
+            "VOLUME (ML)": 133
+          },
+          {
+            "PRICE PER ML": 235.0,
+            "TRADE DATE": "27/08",
+            "TRADE NO": 21051,
+            "VOLUME (ML)": 200
+          },
+          {
+            "PRICE PER ML": 250.0,
+            "TRADE DATE": "25/08",
+            "TRADE NO": 21043,
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML": 380.0,
+            "TRADE DATE": "10/07",
+            "TRADE NO": 21013,
+            "VOLUME (ML)": 100
+          }
+        ]
+      ]
+    },
+    {
+      "Goulburn": [
+        [
+          {
+            "PRICE PER ML ($)*": 180,
+            "REFERENCE NUMBER": "E050",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 150
+          },
+          {
+            "PRICE PER ML ($)*": 340,
+            "REFERENCE NUMBER": "E001",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML ($)*": 350,
+            "REFERENCE NUMBER": "B409",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "PRICE PER ML ($)*": 170,
+            "REFERENCE NUMBER": "A012",
+            "TRADNG REGION": "1A",
+            "VOLUME (ML)": 100
+          }
+        ],
+        [
+          {
+            "DATE": "22/09",
+            "PRICE ($)*": 195,
+            "TRADE NUMBER": 21079,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21075,
+            "VOLUME": 40
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21071,
+            "VOLUME": 20
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21069,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21068,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21062,
+            "VOLUME": 150
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21061,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "08/09",
+            "PRICE ($)*": 185,
+            "TRADE NUMBER": 21060,
+            "VOLUME": 335
+          },
+          {
+            "DATE": "03/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21059,
+            "VOLUME": 100
+          },
+          {
+            "DATE": "02/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21058,
+            "VOLUME": 100
+          }
+        ]
+      ]
+    },
+    {
+      "Loddon": [
+        [
+          {
+            "PRICE PER ML ($)*": 180,
+            "REFERENCE NUMBER": "E050",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 150
+          },
+          {
+            "PRICE PER ML ($)*": 340,
+            "REFERENCE NUMBER": "E001",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML ($)*": 350,
+            "REFERENCE NUMBER": "B409",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "PRICE PER ML ($)*": 170,
+            "REFERENCE NUMBER": "A012",
+            "TRADNG REGION": "1A",
+            "VOLUME (ML)": 100
+          }
+        ],
+        [
+          {
+            "DATE": "22/09",
+            "PRICE ($)*": 195,
+            "TRADE NUMBER": 21079,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21075,
+            "VOLUME": 40
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21071,
+            "VOLUME": 20
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21069,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21068,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21062,
+            "VOLUME": 150
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21061,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "08/09",
+            "PRICE ($)*": 185,
+            "TRADE NUMBER": 21060,
+            "VOLUME": 335
+          },
+          {
+            "DATE": "03/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21059,
+            "VOLUME": 100
+          },
+          {
+            "DATE": "02/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21058,
+            "VOLUME": 100
+          }
+        ]
+      ]
+    },
+    {
+      "Campaspe": [
+        [
+          {
+            "PRICE PER ML ($)*": 180,
+            "REFERENCE NUMBER": "E050",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 150
+          },
+          {
+            "PRICE PER ML ($)*": 340,
+            "REFERENCE NUMBER": "E001",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 100
+          },
+          {
+            "PRICE PER ML ($)*": 350,
+            "REFERENCE NUMBER": "B409",
+            "TRADING REGION": "1A",
+            "VOLUME (ML)": 500
+          }
+        ],
+        [
+          {
+            "PRICE PER ML ($)*": 170,
+            "REFERENCE NUMBER": "A012",
+            "TRADNG REGION": "1A",
+            "VOLUME (ML)": 100
+          }
+        ],
+        [
+          {
+            "DATE": "22/09",
+            "PRICE ($)*": 195,
+            "TRADE NUMBER": 21079,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21075,
+            "VOLUME": 40
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21071,
+            "VOLUME": 20
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21069,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "11/09",
+            "PRICE ($)*": 210,
+            "TRADE NUMBER": 21068,
+            "VOLUME": 10
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21062,
+            "VOLUME": 150
+          },
+          {
+            "DATE": "09/09",
+            "PRICE ($)*": 200,
+            "TRADE NUMBER": 21061,
+            "VOLUME": 50
+          },
+          {
+            "DATE": "08/09",
+            "PRICE ($)*": 185,
+            "TRADE NUMBER": 21060,
+            "VOLUME": 335
+          },
+          {
+            "DATE": "03/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21059,
+            "VOLUME": 100
+          },
+          {
+            "DATE": "02/09",
+            "PRICE ($)*": 175,
+            "TRADE NUMBER": 21058,
+            "VOLUME": 100
+          }
+        ]
+      ]
+    }
+  ]
+}

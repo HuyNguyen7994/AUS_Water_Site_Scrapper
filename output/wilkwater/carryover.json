@@ -1,0 +1,57 @@
+{
+  "For Sale - All Areas": [
+    {
+      "Additional Information": null,
+      "Price ($)/ML": null,
+      "Seller Ref.": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ],
+  "Past Sales - All Areas": [
+    {
+      "Additional information": null,
+      "Date": "31/03/20",
+      "ML": 1000,
+      "Price ($)/ML": "$25.00",
+      "Source": "Murray Irrigation"
+    },
+    {
+      "Additional information": null,
+      "Date": "31/03/20",
+      "ML": 900,
+      "Price ($)/ML": "$10.00",
+      "Source": "LMGW Zone 3"
+    },
+    {
+      "Additional information": null,
+      "Date": "25/03/20",
+      "ML": 1009,
+      "Price ($)/ML": "$25.00",
+      "Source": "Murray Irrigation"
+    },
+    {
+      "Additional information": null,
+      "Date": "25/03/20",
+      "ML": 367,
+      "Price ($)/ML": "$25.00",
+      "Source": "Murray Irrigation"
+    }
+  ],
+  "Wanted - All Areas": [
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    },
+    {
+      "Additional Information": null,
+      "Buyer Ref.": null,
+      "Price ($)/ML": null,
+      "Source": null,
+      "Volume (ML)": null
+    }
+  ]
+}
