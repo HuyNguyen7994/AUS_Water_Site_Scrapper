@@ -1,0 +1,54 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "03-10-19",
+        "id": 531884,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": null,
+        "sort": "2019-10-03",
+        "volume": "100.00"
+      },
+      {
+        "date": "19-09-18",
+        "id": 524327,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": null,
+        "sort": "2018-09-19",
+        "volume": "100.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "03-10-19",
+        "id": 531884,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": "12-11-19",
+        "sort": "2019-10-03",
+        "volume": "100.00"
+      },
+      {
+        "date": "19-09-18",
+        "id": 524327,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": "29-10-18",
+        "sort": "2018-09-19",
+        "volume": "100.00"
+      }
+    ],
+    "zoneId": 1290,
+    "zoneName": "VIC Groundwater - Katunga 1061 - Temporary Allocation"
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 28516,
+        "not_current_year": 1,
+        "price": 2120,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "145.00"
+      },
+      {
+        "date": "01-06-17",
+        "id": 28517,
+        "not_current_year": 1,
+        "price": 2227,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "431.00"
+      },
+      {
+        "date": "01-06-17",
+        "id": 28611,
+        "not_current_year": 1,
+        "price": 1880,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "25.00"
+      },
+      {
+        "date": "01-09-16",
+        "id": 5892,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2016-09-01",
+        "volume": "100.00"
+      },
+      {
+        "date": "01-01-16",
+        "id": 5893,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2016-01-01",
+        "volume": "617.00"
+      },
+      {
+        "date": "01-12-15",
+        "id": 5894,
+        "not_current_year": 1,
+        "price": 1500,
+        "registered": null,
+        "sort": "2015-12-01",
+        "volume": "90.00"
+      },
+      {
+        "date": "01-11-15",
+        "id": 5895,
+        "not_current_year": 1,
+        "price": 1300,
+        "registered": null,
+        "sort": "2015-11-01",
+        "volume": "16.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5896,
+        "not_current_year": 1,
+        "price": 1180,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "1116.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5897,
+        "not_current_year": 1,
+        "price": 1075,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "1350.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5898,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "10.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29451,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "20.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29683,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "20.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 30482,
+        "not_current_year": 1,
+        "price": 2200,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "75.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28516,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 2120,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "145.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28517,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 2227,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "431.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28611,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 1880,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "25.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-09-2016",
+        "chartdate": "01-09-16",
+        "id": 5892,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "09/2016",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-09-16",
+        "sortdate": "2016-09-01",
+        "volume": "100.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-01-2016",
+        "chartdate": "01-01-16",
+        "id": 5893,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "01/2016",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "01-01-16",
+        "sortdate": "2016-01-01",
+        "volume": "617.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-12-2015",
+        "chartdate": "01-12-15",
+        "id": 5894,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "12/2015",
+        "not_current_year": 1,
+        "price": 1500,
+        "shortdate": "01-12-15",
+        "sortdate": "2015-12-01",
+        "volume": "90.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-11-2015",
+        "chartdate": "01-11-15",
+        "id": 5895,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "11/2015",
+        "not_current_year": 1,
+        "price": 1300,
+        "shortdate": "01-11-15",
+        "sortdate": "2015-11-01",
+        "volume": "16.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5896,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 1180,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "1116.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5897,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 1075,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "1350.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5898,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "10.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29451,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "20.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29683,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "20.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 30482,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2200,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "75.00",
+        "wex_process": "0",
+        "zone": "QLD Macintyre Brook"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Macintyre Brook - Supplemented Medium Priority - Permanent Entitlement"
+  }
+]

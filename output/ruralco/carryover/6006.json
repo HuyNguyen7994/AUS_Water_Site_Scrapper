@@ -1,0 +1,186 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Carryover capacity",
+    "buyOrders": [
+      {
+        "BIN_price": "40.00",
+        "alloc_clause": null,
+        "auction_id": 3825,
+        "auction_method": "bulletin-buy",
+        "auction_name": "2,000.0ML Carryover Capacity - NSW Murray (Below Choke)_Zone 11",
+        "bids": [],
+        "current_price": null,
+        "customer_id": 174231,
+        "customincrement": "5.00",
+        "date_create": "2020-09-30 01:55:55",
+        "date_end": "2020-10-30 06:00:00",
+        "date_end_formatted": "30/10/2020",
+        "date_end_original": "2020-10-30 01:55:55",
+        "date_start": "2020-09-30 01:55:55",
+        "days_left": 23,
+        "description": "<strong>2,000.0ML Carryover Capacity - NSW Murray (Below Choke)_Zone 11</strong>\r\n<ul>\r\n\t<li>Purchaser seeks 2,000.0ML Carryover Capacity in NSW Murray (Below Choke)_Zone 11</li>\r\n\t<li>Price on offer is $40 per ML</li>\r\n\t<li>Payment due in May 2021</li>\r\n\t<li>Water to be transferred to the Holders account in\u00c2\u00a0May 2021</li>\r\n\t<li>The Holder bears the risk of any reduction in Allocation in the 2021-22 Water Year</li>\r\n</ul>\r\n<em style=\"color: #008cd3;\"><span style=\"font-weight: inherit; font-style: inherit; color: #0000ff;\">Please Note: This listing is a market opportunity only and therefore does not have a 'Buy it Now' option. If you are interested in negotiating the terms of the agreement or securing this opportunity, please speak with your Waterexchange Water Broker.</span></em>",
+        "duration": 0,
+        "engine": 2,
+        "ent_clause": null,
+        "entitlement_type": "Carryover Capacity - NSW Murray (Below Choke)_Zone 11",
+        "entitlement_type_id": 0,
+        "expires": "30th Oct 2020 6:00AM EST",
+        "extraimage1": "",
+        "extraimage2": "",
+        "extraimage3": "",
+        "has_BIN_price": 1,
+        "has_winner": 0,
+        "hours_left": 2,
+        "id": 3825,
+        "image_url": "",
+        "is_active": 1,
+        "is_approved": "1",
+        "is_registered": "0",
+        "licence": null,
+        "megs": "2000.00",
+        "method": "bulletin-buy",
+        "name": "2,000.0ML Carryover Capacity - NSW Murray (Below Choke)_Zone 11",
+        "paymentmethod": "",
+        "postdesc": "a:2:{s:8:\"template\";N;s:4:\"data\";N;}",
+        "predesc": null,
+        "reserve_price": "39.00",
+        "shipping_from": "",
+        "shipping_price": "0.00",
+        "shipping_to": "",
+        "start_price": "0.00",
+        "staticpage": "",
+        "terms": "carryover-capacity-nsw-murray-below-choke-zone-11",
+        "use_for_sale_method": "0",
+        "uuid": "13fee066-02c0-11eb-87d5-005056a3be8d",
+        "variable_shipping": "",
+        "winner": null,
+        "winner_email": null,
+        "winning_price": null
+      }
+    ],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "22/06/2020",
+        "agreed_date_sort": "2020-06-22 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "40.00",
+        "volume": "150.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "145.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "01/06/2020",
+        "agreed_date_sort": "2020-06-01 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "40.00",
+        "volume": "1203.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "20/05/2020",
+        "agreed_date_sort": "2020-05-20 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "1100.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      },
+      {
+        "agreed": "19/05/2020",
+        "agreed_date_sort": "2020-05-19 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "572.80",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      },
+      {
+        "agreed": "14/05/2020",
+        "agreed_date_sort": "2020-05-14 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "227.20",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      },
+      {
+        "agreed": "23/04/2020",
+        "agreed_date_sort": "2020-04-23 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "1700.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      },
+      {
+        "agreed": "26/06/2019",
+        "agreed_date_sort": "2019-06-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "22.00",
+        "volume": "800.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "26/06/2019",
+        "agreed_date_sort": "2019-06-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "100.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "26/06/2019",
+        "agreed_date_sort": "2019-06-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "45.50",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "26/06/2019",
+        "agreed_date_sort": "2019-06-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "22.00",
+        "volume": "400.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "22.00",
+        "volume": "75.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "22/06/2019",
+        "agreed_date_sort": "2019-06-22 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "1100.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      },
+      {
+        "agreed": "21/06/2019",
+        "agreed_date_sort": "2019-06-21 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "2500.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Moira Irrigation Trust"
+      }
+    ],
+    "zoneName": "NSW Murray (Below Choke)_Zone 11"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "23-09-20",
+        "id": 2367,
+        "not_current_year": 0,
+        "price": "1500.00",
+        "registered": null,
+        "sort": "2020-09-23",
+        "volume": "260"
+      },
+      {
+        "date": "18-09-20",
+        "id": 2372,
+        "not_current_year": 0,
+        "price": "7500.00",
+        "registered": null,
+        "sort": "2020-09-18",
+        "volume": "25"
+      },
+      {
+        "date": "27-08-20",
+        "id": 2346,
+        "not_current_year": 0,
+        "price": "7300.00",
+        "registered": null,
+        "sort": "2020-08-27",
+        "volume": "43"
+      },
+      {
+        "date": "23-06-20",
+        "id": 2256,
+        "not_current_year": 1,
+        "price": "1390.00",
+        "registered": null,
+        "sort": "2020-06-23",
+        "volume": "213"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [],
+    "sellOrders": [
+      {
+        "BIN_price": "0.00",
+        "alloc_clause": 4,
+        "auction_id": 3824,
+        "auction_method": "auction",
+        "auction_name": "60ML - NSW Murray (Above Choke)_Zone 10 - General security",
+        "bids": [
+          {
+            "current_bid_price": "1640.00",
+            "date": "06/10/2020"
+          }
+        ],
+        "current_price": "1640.00",
+        "customer_id": 174344,
+        "customincrement": "5.00",
+        "date_create": "2020-09-29 00:13:16",
+        "date_end": "2020-10-06 04:12:00",
+        "date_end_formatted": "06/10/2020",
+        "date_end_original": "2020-10-06 00:13:16",
+        "date_start": "2020-09-29 00:13:16",
+        "days_left": 0,
+        "description": "<strong>60ML - NSW Murray (Above Choke)_Zone 10 - General security</strong>\r\n<ul style=\"color: #000000 !important;\">\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\">INCLUDES 2020/21 ALLOCATION</li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\">Pro rata adjustment of \u00c2\u00a0fixed charges</li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">10% of the purchase price payable immediately and balance upon approval of the transfer</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">Purchaser responsible for $371.85 WaterNSW processing fee\u00c2\u00a0and $200.00 LRS\u00c2\u00a0lodgement fee</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">WEX processing fee of $220 (incl GST)\u00c2\u00a0applicable to the Vendor</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">Should the auction close below the reserve the highest bidder has first right to negotiate with the Vendor</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">If a bid is received in the last minute of the auction it will be extended for an additional\u00c2\u00a03 minutes</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><span style=\"font-weight: inherit; font-style: inherit; color: #000000;\">Bids to be in $5 increments</span></li>\r\n\t<li style=\"font-weight: inherit; font-style: inherit; color: #59362b !important;\"><a href=\"https://www.waterexchange.com.au/auction/?p=6153\"><span style=\"font-weight: inherit; font-style: inherit; color: #0000ff;\">Contract to be executed by the successful bidder (above reserve) upon completion of the auction</span></a></li>\r\n</ul>",
+        "duration": 0,
+        "engine": 2,
+        "ent_clause": 1,
+        "entitlement_type": "NSW Murray (Above Choke)_Zone 10 - General security",
+        "entitlement_type_id": 2,
+        "expires": "6th Oct 2020 4:12AM EST",
+        "extraimage1": "",
+        "extraimage2": "",
+        "extraimage3": "",
+        "has_BIN_price": 0,
+        "has_winner": 1,
+        "hours_left": -22,
+        "id": 3824,
+        "image_url": "6152",
+        "is_active": 0,
+        "is_approved": "1",
+        "is_registered": "0",
+        "licence": "213246",
+        "megs": "60.00",
+        "method": "auction",
+        "name": "60ML - NSW Murray (Above Choke)_Zone 10 - General security",
+        "paymentmethod": "",
+        "postdesc": "a:2:{s:8:\"template\";N;s:4:\"data\";N;}",
+        "predesc": null,
+        "reserve_price": "1499.00",
+        "shipping_from": "",
+        "shipping_price": "0.00",
+        "shipping_to": "",
+        "start_price": "1350.00",
+        "staticpage": "",
+        "terms": "permanent-nsw-murray-above-choke-zone-10-general-security",
+        "use_for_sale_method": "1",
+        "uuid": "9230637a-01e8-11eb-87d5-005056a3be8d",
+        "variable_shipping": "",
+        "winner": "ANDREW MATHIE",
+        "winner_email": "LMATHIE@BIGPOND.COM",
+        "winning_price": "1640.00"
+      }
+    ],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "10-09-2020",
+        "alloc_clause": "4",
+        "id": 2367,
+        "licence_security": "NSW General Security",
+        "mtime": "Under Contract",
+        "not_current_year": 0,
+        "price": "1500.00",
+        "shortdate": "23-09-20",
+        "sortdate": "2020-09-23",
+        "volume": "260",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      },
+      {
+        "agreed": "10-09-2020",
+        "alloc_clause": "4",
+        "id": 2372,
+        "licence_security": "NSW High Security",
+        "mtime": "Under Contract",
+        "not_current_year": 0,
+        "price": "7500.00",
+        "shortdate": "18-09-20",
+        "sortdate": "2020-09-18",
+        "volume": "25",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      },
+      {
+        "agreed": "25-08-2020",
+        "alloc_clause": "4",
+        "id": 2346,
+        "licence_security": "NSW High Security",
+        "mtime": "Under Contract",
+        "not_current_year": 0,
+        "price": "7300.00",
+        "shortdate": "27-08-20",
+        "sortdate": "2020-08-27",
+        "volume": "43",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      },
+      {
+        "agreed": "05-06-2020",
+        "alloc_clause": "1",
+        "id": 2256,
+        "licence_security": "NSW General Security",
+        "mtime": "Under Contract",
+        "not_current_year": 1,
+        "price": "1390.00",
+        "shortdate": "23-06-20",
+        "sortdate": "2020-06-23",
+        "volume": "213",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      }
+    ],
+    "zoneName": "NSW Murray (Above Choke)_Zone 10 - Permanent Entitlement"
+  }
+]

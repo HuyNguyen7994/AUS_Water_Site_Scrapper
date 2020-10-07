@@ -1,0 +1,111 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 5971,
+        "not_current_year": 1,
+        "price": 0,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "0.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29117,
+        "not_current_year": 1,
+        "price": 944,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "90.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 30471,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "150.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 30472,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "150.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 5971,
+        "licence_security": "QLD Supplemented High Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 0,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "0.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29117,
+        "licence_security": "QLD Supplemented High Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 944,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "90.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 30471,
+        "licence_security": "QLD Supplemented High Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "150.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 30472,
+        "licence_security": "QLD Supplemented High Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "150.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Upper Burnett - Supplemented High Priority - Permanent Entitlement"
+  }
+]

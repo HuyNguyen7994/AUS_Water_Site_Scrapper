@@ -1,0 +1,17 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": [],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Other Zones - Permanent Entitlement"
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "14-07-20",
+        "id": 561121,
+        "not_current_year": 0,
+        "price": "205.00",
+        "registered": null,
+        "sort": "2020-07-14",
+        "volume": "1000.00"
+      },
+      {
+        "date": "27-05-20",
+        "id": 559716,
+        "not_current_year": 1,
+        "price": "240.00",
+        "registered": null,
+        "sort": "2020-05-27",
+        "volume": "32.00"
+      },
+      {
+        "date": "03-04-20",
+        "id": 558706,
+        "not_current_year": 1,
+        "price": "315.00",
+        "registered": null,
+        "sort": "2020-04-03",
+        "volume": "170.00"
+      },
+      {
+        "date": "19-03-20",
+        "id": 558499,
+        "not_current_year": 1,
+        "price": "315.00",
+        "registered": null,
+        "sort": "2020-03-19",
+        "volume": "20.00"
+      },
+      {
+        "date": "10-01-20",
+        "id": 556933,
+        "not_current_year": 1,
+        "price": "350.00",
+        "registered": null,
+        "sort": "2020-01-10",
+        "volume": "100.00"
+      },
+      {
+        "date": "20-12-19",
+        "id": 556595,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": null,
+        "sort": "2019-12-20",
+        "volume": "100.00"
+      },
+      {
+        "date": "16-12-19",
+        "id": 556432,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": null,
+        "sort": "2019-12-16",
+        "volume": "50.00"
+      },
+      {
+        "date": "13-12-19",
+        "id": 556431,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": null,
+        "sort": "2019-12-13",
+        "volume": "50.00"
+      },
+      {
+        "date": "30-08-19",
+        "id": 531277,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": null,
+        "sort": "2019-08-30",
+        "volume": "200.00"
+      },
+      {
+        "date": "31-01-19",
+        "id": 526777,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": null,
+        "sort": "2019-01-31",
+        "volume": "75.00"
+      },
+      {
+        "date": "31-01-19",
+        "id": 526776,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": null,
+        "sort": "2019-01-31",
+        "volume": "75.00"
+      },
+      {
+        "date": "21-01-19",
+        "id": 526517,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": null,
+        "sort": "2019-01-21",
+        "volume": "500.00"
+      },
+      {
+        "date": "28-09-18",
+        "id": 524527,
+        "not_current_year": 1,
+        "price": "240.00",
+        "registered": null,
+        "sort": "2018-09-28",
+        "volume": "500.00"
+      },
+      {
+        "date": "15-08-18",
+        "id": 523700,
+        "not_current_year": 1,
+        "price": "222.00",
+        "registered": null,
+        "sort": "2018-08-15",
+        "volume": "1500.00"
+      },
+      {
+        "date": "04-07-18",
+        "id": 523133,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": null,
+        "sort": "2018-07-04",
+        "volume": "40.00"
+      },
+      {
+        "date": "11-05-18",
+        "id": 521658,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": null,
+        "sort": "2018-05-11",
+        "volume": "10.00"
+      },
+      {
+        "date": "10-05-18",
+        "id": 521650,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": null,
+        "sort": "2018-05-10",
+        "volume": "1500.00"
+      },
+      {
+        "date": "08-05-18",
+        "id": 521606,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": null,
+        "sort": "2018-05-08",
+        "volume": "150.00"
+      },
+      {
+        "date": "08-05-18",
+        "id": 521605,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": null,
+        "sort": "2018-05-08",
+        "volume": "350.00"
+      },
+      {
+        "date": "02-03-18",
+        "id": 520009,
+        "not_current_year": 1,
+        "price": "60.00",
+        "registered": null,
+        "sort": "2018-03-02",
+        "volume": "592.00"
+      },
+      {
+        "date": "07-09-17",
+        "id": 517664,
+        "not_current_year": 1,
+        "price": "60.00",
+        "registered": null,
+        "sort": "2017-09-07",
+        "volume": "40.00"
+      },
+      {
+        "date": "13-06-17",
+        "id": 516726,
+        "not_current_year": 1,
+        "price": "5.00",
+        "registered": null,
+        "sort": "2017-06-13",
+        "volume": "1249.00"
+      },
+      {
+        "date": "12-05-17",
+        "id": 516118,
+        "not_current_year": 1,
+        "price": "25.00",
+        "registered": null,
+        "sort": "2017-05-12",
+        "volume": "20.00"
+      },
+      {
+        "date": "24-01-17",
+        "id": 514685,
+        "not_current_year": 1,
+        "price": "50.00",
+        "registered": null,
+        "sort": "2017-01-24",
+        "volume": "20.00"
+      },
+      {
+        "date": "17-05-16",
+        "id": 512762,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": null,
+        "sort": "2016-05-17",
+        "volume": "5.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "14-07-20",
+        "id": 561121,
+        "not_current_year": 0,
+        "price": "205.00",
+        "registered": "28-07-20",
+        "sort": "2020-07-14",
+        "volume": "1000.00"
+      },
+      {
+        "date": "27-05-20",
+        "id": 559716,
+        "not_current_year": 1,
+        "price": "240.00",
+        "registered": "12-06-20",
+        "sort": "2020-05-27",
+        "volume": "32.00"
+      },
+      {
+        "date": "03-04-20",
+        "id": 558706,
+        "not_current_year": 1,
+        "price": "315.00",
+        "registered": "16-04-20",
+        "sort": "2020-04-03",
+        "volume": "170.00"
+      },
+      {
+        "date": "19-03-20",
+        "id": 558499,
+        "not_current_year": 1,
+        "price": "315.00",
+        "registered": "31-03-20",
+        "sort": "2020-03-19",
+        "volume": "20.00"
+      },
+      {
+        "date": "10-01-20",
+        "id": 556933,
+        "not_current_year": 1,
+        "price": "350.00",
+        "registered": "28-01-20",
+        "sort": "2020-01-10",
+        "volume": "100.00"
+      },
+      {
+        "date": "20-12-19",
+        "id": 556595,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": "09-01-20",
+        "sort": "2019-12-20",
+        "volume": "100.00"
+      },
+      {
+        "date": "16-12-19",
+        "id": 556432,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": "09-01-20",
+        "sort": "2019-12-16",
+        "volume": "50.00"
+      },
+      {
+        "date": "13-12-19",
+        "id": 556431,
+        "not_current_year": 1,
+        "price": "250.00",
+        "registered": "09-01-20",
+        "sort": "2019-12-13",
+        "volume": "50.00"
+      },
+      {
+        "date": "30-08-19",
+        "id": 531277,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": "25-10-19",
+        "sort": "2019-08-30",
+        "volume": "200.00"
+      },
+      {
+        "date": "31-01-19",
+        "id": 526777,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": "11-03-19",
+        "sort": "2019-01-31",
+        "volume": "75.00"
+      },
+      {
+        "date": "31-01-19",
+        "id": 526776,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": "11-02-19",
+        "sort": "2019-01-31",
+        "volume": "75.00"
+      },
+      {
+        "date": "21-01-19",
+        "id": 526517,
+        "not_current_year": 1,
+        "price": "275.00",
+        "registered": "11-02-19",
+        "sort": "2019-01-21",
+        "volume": "500.00"
+      },
+      {
+        "date": "28-09-18",
+        "id": 524527,
+        "not_current_year": 1,
+        "price": "240.00",
+        "registered": "15-10-18",
+        "sort": "2018-09-28",
+        "volume": "500.00"
+      },
+      {
+        "date": "15-08-18",
+        "id": 523700,
+        "not_current_year": 1,
+        "price": "222.00",
+        "registered": "10-09-18",
+        "sort": "2018-08-15",
+        "volume": "1500.00"
+      },
+      {
+        "date": "04-07-18",
+        "id": 523133,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": "11-07-18",
+        "sort": "2018-07-04",
+        "volume": "40.00"
+      },
+      {
+        "date": "11-05-18",
+        "id": 521658,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": "30-05-18",
+        "sort": "2018-05-11",
+        "volume": "10.00"
+      },
+      {
+        "date": "10-05-18",
+        "id": 521650,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": "25-06-18",
+        "sort": "2018-05-10",
+        "volume": "1500.00"
+      },
+      {
+        "date": "08-05-18",
+        "id": 521606,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": "16-05-18",
+        "sort": "2018-05-08",
+        "volume": "150.00"
+      },
+      {
+        "date": "08-05-18",
+        "id": 521605,
+        "not_current_year": 1,
+        "price": "75.00",
+        "registered": "16-05-18",
+        "sort": "2018-05-08",
+        "volume": "350.00"
+      },
+      {
+        "date": "02-03-18",
+        "id": 520009,
+        "not_current_year": 1,
+        "price": "60.00",
+        "registered": "15-03-18",
+        "sort": "2018-03-02",
+        "volume": "592.00"
+      },
+      {
+        "date": "07-09-17",
+        "id": 517664,
+        "not_current_year": 1,
+        "price": "60.00",
+        "registered": "19-09-17",
+        "sort": "2017-09-07",
+        "volume": "40.00"
+      },
+      {
+        "date": "13-06-17",
+        "id": 516726,
+        "not_current_year": 1,
+        "price": "5.00",
+        "registered": "30-06-17",
+        "sort": "2017-06-13",
+        "volume": "1249.00"
+      },
+      {
+        "date": "13-06-17",
+        "id": 516725,
+        "not_current_year": 1,
+        "price": "0.00",
+        "registered": "30-06-17",
+        "sort": "2017-06-13",
+        "volume": "272.10"
+      },
+      {
+        "date": "13-06-17",
+        "id": 516723,
+        "not_current_year": 1,
+        "price": "0.00",
+        "registered": "30-06-17",
+        "sort": "2017-06-13",
+        "volume": "611.80"
+      },
+      {
+        "date": "13-06-17",
+        "id": 516722,
+        "not_current_year": 1,
+        "price": "0.00",
+        "registered": "30-06-17",
+        "sort": "2017-06-13",
+        "volume": "1580.70"
+      },
+      {
+        "date": "12-05-17",
+        "id": 516118,
+        "not_current_year": 1,
+        "price": "25.00",
+        "registered": "05-06-17",
+        "sort": "2017-05-12",
+        "volume": "20.00"
+      },
+      {
+        "date": "24-01-17",
+        "id": 514685,
+        "not_current_year": 1,
+        "price": "50.00",
+        "registered": "07-02-17",
+        "sort": "2017-01-24",
+        "volume": "20.00"
+      },
+      {
+        "date": "17-05-16",
+        "id": 512762,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": "25-05-16",
+        "sort": "2016-05-17",
+        "volume": "5.00"
+      }
+    ],
+    "zoneId": 1042,
+    "zoneName": "NSW Groundwater - Lower Murrumbidgee Deep Zone 2 - Temporary Allocation"
+  }
+]

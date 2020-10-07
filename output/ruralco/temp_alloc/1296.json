@@ -1,0 +1,162 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "28-09-20",
+        "id": 562147,
+        "not_current_year": 0,
+        "price": "225.00",
+        "registered": null,
+        "sort": "2020-09-28",
+        "volume": "3.00"
+      },
+      {
+        "date": "14-07-20",
+        "id": 561096,
+        "not_current_year": 0,
+        "price": "250.00",
+        "registered": null,
+        "sort": "2020-07-14",
+        "volume": "2.00"
+      },
+      {
+        "date": "09-07-20",
+        "id": 561029,
+        "not_current_year": 0,
+        "price": "250.00",
+        "registered": null,
+        "sort": "2020-07-09",
+        "volume": "4.00"
+      },
+      {
+        "date": "13-01-20",
+        "id": 556980,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": null,
+        "sort": "2020-01-13",
+        "volume": "1.00"
+      },
+      {
+        "date": "22-10-19",
+        "id": 532220,
+        "not_current_year": 1,
+        "price": "225.00",
+        "registered": null,
+        "sort": "2019-10-22",
+        "volume": "3.00"
+      },
+      {
+        "date": "24-09-19",
+        "id": 531728,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": null,
+        "sort": "2019-09-24",
+        "volume": "10.00"
+      },
+      {
+        "date": "12-09-19",
+        "id": 531506,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": null,
+        "sort": "2019-09-12",
+        "volume": "60.00"
+      },
+      {
+        "date": "14-08-19",
+        "id": 530849,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": null,
+        "sort": "2019-08-14",
+        "volume": "10.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "28-09-20",
+        "id": 562147,
+        "not_current_year": 0,
+        "price": "225.00",
+        "registered": "02-10-20",
+        "sort": "2020-09-28",
+        "volume": "3.00"
+      },
+      {
+        "date": "14-07-20",
+        "id": 561096,
+        "not_current_year": 0,
+        "price": "250.00",
+        "registered": "17-07-20",
+        "sort": "2020-07-14",
+        "volume": "2.00"
+      },
+      {
+        "date": "09-07-20",
+        "id": 561029,
+        "not_current_year": 0,
+        "price": "250.00",
+        "registered": "15-07-20",
+        "sort": "2020-07-09",
+        "volume": "4.00"
+      },
+      {
+        "date": "13-01-20",
+        "id": 556980,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": "21-01-20",
+        "sort": "2020-01-13",
+        "volume": "1.00"
+      },
+      {
+        "date": "22-10-19",
+        "id": 532220,
+        "not_current_year": 1,
+        "price": "225.00",
+        "registered": "25-11-19",
+        "sort": "2019-10-22",
+        "volume": "3.00"
+      },
+      {
+        "date": "24-09-19",
+        "id": 531728,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": "02-10-19",
+        "sort": "2019-09-24",
+        "volume": "10.00"
+      },
+      {
+        "date": "12-09-19",
+        "id": 531506,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": "19-09-19",
+        "sort": "2019-09-12",
+        "volume": "60.00"
+      },
+      {
+        "date": "14-08-19",
+        "id": 530849,
+        "not_current_year": 1,
+        "price": "230.00",
+        "registered": "20-08-19",
+        "sort": "2019-08-14",
+        "volume": "10.00"
+      }
+    ],
+    "zoneId": 1296,
+    "zoneName": "QLD FITZROY A - Temporary Allocation"
+  }
+]

@@ -7,7 +7,6 @@ Created on Tue Oct  6 09:41:48 2020
 
 import pandas as pd
 import requests as rq
-from collections import defaultdict
 from bs4 import BeautifulSoup as bs
 from pathlib import Path
 
@@ -22,12 +21,48 @@ if __name__ == '__main__':
     soup = bs(rq.get(URL_PERNAMENT).text, 'lxml')
     soup = soup.find('div', attrs={'class':'rtd'})
     soup = soup.find_all('div',recursive=False)
-    raw_data = defaultdict(list)
-    cur_header = ''
+    df = []
+    cur_category = ''
     for s in soup:
-        header = s.find_all('h2')
+        category = s.find_all('h2')
         content = s.find_all('p')
-        if header:
-            cur_header = header[0].text
+        if category:
+            cur_category = category[0].text
         if content and len(content) == 4:
-            raw_data[cur_header].append([c.text for c in content])
+            row = [c.text for c in content]
+            row.append(cur_category)
+            df.append(row)
+    df = pd.DataFrame(df)
+    df.columns = df.iloc[0,:]
+    df = df.iloc[1:,:]
+    df.columns = [*df.columns[:-1], 'Buyers/Sellers?']
+    df.to_csv(OUTPUT_PATH / 'pernament.csv')
+    
+    # Get Temporary
+    soup = bs(rq.get(URL_TEMPORARY).text, 'lxml')
+    soup = soup.find('div', attrs={'class':'rtd'})
+    soup = soup.find_all('div',recursive=False)
+    df = []
+    cur_category = ''
+    saved_column = []
+    for s in soup:
+        category = s.find_all('h2')
+        content = s.find_all('p')
+        column = s.find_all('h4')
+        if category:
+            cur_category = category[0].text
+        elif content and len(content) == 4:
+            row = [c.text for c in content]
+            row.append(cur_category)
+            df.append(row)
+        elif column and len(column) == 4:
+            saved_column = [c.text for c in column]
+
+    df = pd.DataFrame(df)
+    df.columns = saved_column + ['Buyers/Sellers?']
+    df.to_csv(OUTPUT_PATH / 'temporary.csv')
+    
+    
+    
+    
+            

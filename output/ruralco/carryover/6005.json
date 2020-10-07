@@ -1,0 +1,306 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Carryover capacity",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "300.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "25.00",
+        "volume": "700.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "34.60",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "109.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "100.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "50.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "NSW High Security",
+        "price": "50.00",
+        "volume": "60.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "52.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "90.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "30.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "70.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "50.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "290.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "10/06/2020",
+        "agreed_date_sort": "2020-06-10 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "200.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "05/06/2020",
+        "agreed_date_sort": "2020-06-05 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "67.30",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "05/06/2020",
+        "agreed_date_sort": "2020-06-05 00:00:00",
+        "ent_type": "NSW High Security",
+        "price": "50.00",
+        "volume": "1000.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "02/06/2020",
+        "agreed_date_sort": "2020-06-02 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "80.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "28/05/2020",
+        "agreed_date_sort": "2020-05-28 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "30.00",
+        "volume": "250.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "28/05/2020",
+        "agreed_date_sort": "2020-05-28 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "300.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "26/05/2020",
+        "agreed_date_sort": "2020-05-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "70.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "26/05/2020",
+        "agreed_date_sort": "2020-05-26 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "600.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Coleambally Irrigation"
+      },
+      {
+        "agreed": "25/05/2020",
+        "agreed_date_sort": "2020-05-25 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "40.00",
+        "volume": "270.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "25/05/2020",
+        "agreed_date_sort": "2020-05-25 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "200.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "22/05/2020",
+        "agreed_date_sort": "2020-05-22 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "279.70",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "18/05/2020",
+        "agreed_date_sort": "2020-05-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "852.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "18/05/2020",
+        "agreed_date_sort": "2020-05-18 00:00:00",
+        "ent_type": "NSW High Security",
+        "price": "35.00",
+        "volume": "550.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "13/05/2020",
+        "agreed_date_sort": "2020-05-13 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "300.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "12/05/2020",
+        "agreed_date_sort": "2020-05-12 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "40.00",
+        "volume": "60.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "24/04/2020",
+        "agreed_date_sort": "2020-04-24 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "1100.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "20/06/2019",
+        "agreed_date_sort": "2019-06-20 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "160.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "18/06/2019",
+        "agreed_date_sort": "2019-06-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "45.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "14/06/2019",
+        "agreed_date_sort": "2019-06-14 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "81.50",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "30/05/2019",
+        "agreed_date_sort": "2019-05-30 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "26.00",
+        "volume": "400.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "15/04/2019",
+        "agreed_date_sort": "2019-04-15 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "3200.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Private Diverter"
+      },
+      {
+        "agreed": "15/04/2019",
+        "agreed_date_sort": "2019-04-15 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "1000.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      },
+      {
+        "agreed": "15/04/2019",
+        "agreed_date_sort": "2019-04-15 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "25.00",
+        "volume": "366.00",
+        "zone_name": "NSW Murrumbidgee_Zone 13 - Murrumbidgee Irrigation Area"
+      }
+    ],
+    "zoneName": "NSW Murrumbidgee_Zone 13"
+  }
+]

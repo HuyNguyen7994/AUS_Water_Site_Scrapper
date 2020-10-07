@@ -1,0 +1,180 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 28614,
+        "not_current_year": 1,
+        "price": 3378,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "353.00"
+      },
+      {
+        "date": "01-02-16",
+        "id": 5979,
+        "not_current_year": 1,
+        "price": 2600,
+        "registered": null,
+        "sort": "2016-02-01",
+        "volume": "321.00"
+      },
+      {
+        "date": "01-10-15",
+        "id": 5980,
+        "not_current_year": 1,
+        "price": 1500,
+        "registered": null,
+        "sort": "2015-10-01",
+        "volume": "1.00"
+      },
+      {
+        "date": "01-09-15",
+        "id": 5981,
+        "not_current_year": 1,
+        "price": 2420,
+        "registered": null,
+        "sort": "2015-09-01",
+        "volume": "853.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5982,
+        "not_current_year": 1,
+        "price": 1059,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "2681.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5983,
+        "not_current_year": 1,
+        "price": 1866,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "220.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5984,
+        "not_current_year": 1,
+        "price": 904,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "1094.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28614,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 3378,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "353.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-02-2016",
+        "chartdate": "01-02-16",
+        "id": 5979,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "02/2016",
+        "not_current_year": 1,
+        "price": 2600,
+        "shortdate": "01-02-16",
+        "sortdate": "2016-02-01",
+        "volume": "321.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-10-2015",
+        "chartdate": "01-10-15",
+        "id": 5980,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "10/2015",
+        "not_current_year": 1,
+        "price": 1500,
+        "shortdate": "01-10-15",
+        "sortdate": "2015-10-01",
+        "volume": "1.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-09-2015",
+        "chartdate": "01-09-15",
+        "id": 5981,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "09/2015",
+        "not_current_year": 1,
+        "price": 2420,
+        "shortdate": "01-09-15",
+        "sortdate": "2015-09-01",
+        "volume": "853.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5982,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 1059,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "2681.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5983,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 1866,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "220.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5984,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 904,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "1094.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Condamine"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Upper Condamine - Supplemented Medium Priority - Permanent Entitlement"
+  }
+]

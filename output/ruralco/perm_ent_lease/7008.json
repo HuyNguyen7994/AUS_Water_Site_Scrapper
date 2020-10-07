@@ -1,0 +1,150 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement leases",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "08/04/2020",
+        "agreed_date_sort": "2020-04-08 00:00:00",
+        "commencement_date": "15-06-2020",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "270.00",
+        "start_date": "2020-06",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/03/2020",
+        "agreed_date_sort": "2020-03-03 00:00:00",
+        "commencement_date": "05-06-2020",
+        "duration": "5 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "280.00",
+        "start_date": "2020-06",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/02/2020",
+        "agreed_date_sort": "2020-02-03 00:00:00",
+        "commencement_date": "05-06-2020",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "300.00",
+        "start_date": "2020-06",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "13/12/2019",
+        "agreed_date_sort": "2019-12-13 00:00:00",
+        "commencement_date": "01-07-2020",
+        "duration": "5 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "300.00",
+        "start_date": "2020-07",
+        "volume": "700.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "27/08/2019",
+        "agreed_date_sort": "2019-08-27 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "300.00",
+        "start_date": "2019-07",
+        "volume": "100.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "16/08/2019",
+        "agreed_date_sort": "2019-08-16 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "300.00",
+        "start_date": "2019-07",
+        "volume": "500.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "30/05/2019",
+        "agreed_date_sort": "2019-05-30 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "1 year",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "290.00",
+        "start_date": "2019-06",
+        "volume": "500.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "23/04/2019",
+        "agreed_date_sort": "2019-04-23 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "240.00",
+        "start_date": "2019-07",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "12/04/2019",
+        "agreed_date_sort": "2019-04-12 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "6 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "290.00",
+        "start_date": "2019-06",
+        "volume": "250.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "23/11/2018",
+        "agreed_date_sort": "2018-11-23 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "250.00",
+        "start_date": "2019-07",
+        "volume": "400.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "15/04/2018",
+        "agreed_date_sort": "2018-04-15 00:00:00",
+        "commencement_date": "01-07-2018",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "135.00",
+        "start_date": "2018-07",
+        "volume": "350.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "",
+        "agreed_date_sort": "0",
+        "commencement_date": "19-06-2020",
+        "duration": "3 years",
+        "ent_type": "VIC High Reliability",
+        "initial_rental": "220.00",
+        "start_date": "2020-06",
+        "volume": "315.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      }
+    ],
+    "zoneName": "VIC Goulburn_Zone 1"
+  }
+]

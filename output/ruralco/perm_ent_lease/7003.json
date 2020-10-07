@@ -1,0 +1,183 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement leases",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "20/05/2020",
+        "agreed_date_sort": "2020-05-20 00:00:00",
+        "commencement_date": "01-07-2020",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "460.00",
+        "start_date": "2020-07",
+        "volume": "200.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "08/07/2019",
+        "agreed_date_sort": "2019-07-08 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "360.00",
+        "start_date": "2019-07",
+        "volume": "355.50",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "02/07/2019",
+        "agreed_date_sort": "2019-07-02 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "390.00",
+        "start_date": "2019-07",
+        "volume": "100.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "01/07/2019",
+        "agreed_date_sort": "2019-07-01 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "415.00",
+        "start_date": "2019-07",
+        "volume": "1000.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "13/06/2019",
+        "agreed_date_sort": "2019-06-13 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "390.00",
+        "start_date": "2019-07",
+        "volume": "500.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "30/04/2019",
+        "agreed_date_sort": "2019-04-30 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "380.00",
+        "start_date": "2019-07",
+        "volume": "480.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "08/03/2019",
+        "agreed_date_sort": "2019-03-08 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "6 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "350.00",
+        "start_date": "2019-06",
+        "volume": "270.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "08/03/2019",
+        "agreed_date_sort": "2019-03-08 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "6 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "350.00",
+        "start_date": "2019-06",
+        "volume": "245.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "08/03/2019",
+        "agreed_date_sort": "2019-03-08 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "6 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "350.00",
+        "start_date": "2019-06",
+        "volume": "275.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "15/10/2018",
+        "agreed_date_sort": "2018-10-15 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "295.00",
+        "start_date": "2019-07",
+        "volume": "190.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "06/06/2016",
+        "agreed_date_sort": "2016-06-06 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "210.00",
+        "start_date": "2016-07",
+        "volume": "500.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "02/05/2016",
+        "agreed_date_sort": "2016-05-02 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "210.00",
+        "start_date": "2016-07",
+        "volume": "288.20",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "14/01/2016",
+        "agreed_date_sort": "2016-01-14 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "210.00",
+        "start_date": "2016-07",
+        "volume": "431.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "",
+        "agreed_date_sort": "0",
+        "commencement_date": "01-07-2020",
+        "duration": "5 years",
+        "ent_type": "NSW General Security",
+        "initial_rental": "105.50",
+        "start_date": "2020-07",
+        "volume": "1000.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 - Private Diverter"
+      },
+      {
+        "agreed": "",
+        "agreed_date_sort": "0",
+        "commencement_date": "01-09-2020",
+        "duration": "3 years",
+        "ent_type": "NSW High Security",
+        "initial_rental": "410.00",
+        "start_date": "2020-09",
+        "volume": "500.00",
+        "zone_name": "NSW Murray (Below Choke)_Zone 11 Bringan Irrigation Trust"
+      }
+    ],
+    "zoneName": "NSW Murray (Below Choke)_Zone 11"
+  }
+]

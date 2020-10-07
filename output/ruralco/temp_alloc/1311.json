@@ -1,0 +1,16 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [],
+    "zoneId": 1311,
+    "zoneName": "Midlands - Temporary Allocation"
+  }
+]

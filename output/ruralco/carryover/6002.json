@@ -1,0 +1,346 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Carryover capacity",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "100.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "350.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "150.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "450.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "602.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "24/06/2020",
+        "agreed_date_sort": "2020-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "177.60",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "23/06/2020",
+        "agreed_date_sort": "2020-06-23 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "35.00",
+        "volume": "110.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "22/06/2020",
+        "agreed_date_sort": "2020-06-22 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "30.00",
+        "volume": "135.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "150.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "1825.80",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "35.00",
+        "volume": "1169.60",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "35.00",
+        "volume": "50.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "600.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "29.00",
+        "volume": "143.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "133.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "60.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "100.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "250.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "200.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "53.10",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "25.00",
+        "volume": "150.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "40.00",
+        "volume": "275.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "200.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "15/06/2020",
+        "agreed_date_sort": "2020-06-15 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "500.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "10/06/2020",
+        "agreed_date_sort": "2020-06-10 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "228.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "10/06/2020",
+        "agreed_date_sort": "2020-06-10 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "300.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "10/06/2020",
+        "agreed_date_sort": "2020-06-10 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "318.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "05/06/2020",
+        "agreed_date_sort": "2020-06-05 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "35.00",
+        "volume": "240.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "04/06/2020",
+        "agreed_date_sort": "2020-06-04 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "35.00",
+        "volume": "249.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "01/06/2020",
+        "agreed_date_sort": "2020-06-01 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "1500.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/05/2020",
+        "agreed_date_sort": "2020-05-25 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "35.00",
+        "volume": "200.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "22/05/2020",
+        "agreed_date_sort": "2020-05-22 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "62.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "100.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "45.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "60.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "50.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "56.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "30.00",
+        "volume": "20.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "24/06/2019",
+        "agreed_date_sort": "2019-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "20.00",
+        "volume": "31.50",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "06/06/2019",
+        "agreed_date_sort": "2019-06-06 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "25.00",
+        "volume": "1700.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      },
+      {
+        "agreed": "17/04/2019",
+        "agreed_date_sort": "2019-04-17 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "20.00",
+        "volume": "120.00",
+        "zone_name": "VIC Murray (Above Choke)_Zone 6"
+      }
+    ],
+    "zoneName": "VIC Murray (Above Choke)_Zone 6"
+  }
+]

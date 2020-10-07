@@ -1,0 +1,111 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-12-15",
+        "id": 5846,
+        "not_current_year": 1,
+        "price": 2500,
+        "registered": null,
+        "sort": "2015-12-01",
+        "volume": "365.00"
+      },
+      {
+        "date": "01-11-15",
+        "id": 5847,
+        "not_current_year": 1,
+        "price": 1000,
+        "registered": null,
+        "sort": "2015-11-01",
+        "volume": "90.00"
+      },
+      {
+        "date": "01-08-15",
+        "id": 5848,
+        "not_current_year": 1,
+        "price": 3056,
+        "registered": null,
+        "sort": "2015-08-01",
+        "volume": "72.00"
+      },
+      {
+        "date": "01-07-15",
+        "id": 5849,
+        "not_current_year": 1,
+        "price": 1765,
+        "registered": null,
+        "sort": "2015-07-01",
+        "volume": "170.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-12-2015",
+        "chartdate": "01-12-15",
+        "id": 5846,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "12/2015",
+        "not_current_year": 1,
+        "price": 2500,
+        "shortdate": "01-12-15",
+        "sortdate": "2015-12-01",
+        "volume": "365.00",
+        "wex_process": "0",
+        "zone": "QLD Gowrie Oakey Creek"
+      },
+      {
+        "approval_date": "01-11-2015",
+        "chartdate": "01-11-15",
+        "id": 5847,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "11/2015",
+        "not_current_year": 1,
+        "price": 1000,
+        "shortdate": "01-11-15",
+        "sortdate": "2015-11-01",
+        "volume": "90.00",
+        "wex_process": "0",
+        "zone": "QLD Gowrie Oakey Creek"
+      },
+      {
+        "approval_date": "01-08-2015",
+        "chartdate": "01-08-15",
+        "id": 5848,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "08/2015",
+        "not_current_year": 1,
+        "price": 3056,
+        "shortdate": "01-08-15",
+        "sortdate": "2015-08-01",
+        "volume": "72.00",
+        "wex_process": "0",
+        "zone": "QLD Gowrie Oakey Creek"
+      },
+      {
+        "approval_date": "01-07-2015",
+        "chartdate": "01-07-15",
+        "id": 5849,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "07/2015",
+        "not_current_year": 1,
+        "price": 1765,
+        "shortdate": "01-07-15",
+        "sortdate": "2015-07-01",
+        "volume": "170.00",
+        "wex_process": "0",
+        "zone": "QLD Gowrie Oakey Creek"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Gowrie Oakey Creek - Unsupplemented - Permanent Entitlement"
+  }
+]

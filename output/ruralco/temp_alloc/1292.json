@@ -1,0 +1,45 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "29-01-20",
+        "id": 557281,
+        "not_current_year": 1,
+        "price": "251.00",
+        "registered": null,
+        "sort": "2020-01-29",
+        "volume": "80.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "22-09-20",
+        "id": 562103,
+        "not_current_year": 0,
+        "price": "120.00",
+        "registered": "Pending Approval",
+        "sort": "2020-09-22",
+        "volume": "200.00"
+      },
+      {
+        "date": "29-01-20",
+        "id": 557281,
+        "not_current_year": 1,
+        "price": "251.00",
+        "registered": "07-04-20",
+        "sort": "2020-01-29",
+        "volume": "80.00"
+      }
+    ],
+    "zoneId": 1292,
+    "zoneName": "VIC Groundwater - Katunga 1063 - Temporary Allocation"
+  }
+]

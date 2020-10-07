@@ -1,0 +1,157 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "26-03-19",
+        "id": 34138,
+        "not_current_year": 1,
+        "price": 950,
+        "registered": null,
+        "sort": "2019-03-26",
+        "volume": "21.30"
+      },
+      {
+        "date": "20-03-19",
+        "id": 34137,
+        "not_current_year": 1,
+        "price": 950,
+        "registered": null,
+        "sort": "2019-03-20",
+        "volume": "641.00"
+      },
+      {
+        "date": "16-01-19",
+        "id": 34136,
+        "not_current_year": 1,
+        "price": 625,
+        "registered": null,
+        "sort": "2019-01-16",
+        "volume": "1.60"
+      },
+      {
+        "date": "18-02-10",
+        "id": 5466,
+        "not_current_year": 1,
+        "price": 933.33,
+        "registered": null,
+        "sort": "2010-02-18",
+        "volume": "3000.00"
+      },
+      {
+        "date": "25-11-09",
+        "id": 5467,
+        "not_current_year": 1,
+        "price": 7500,
+        "registered": null,
+        "sort": "2009-11-25",
+        "volume": "20.00"
+      },
+      {
+        "date": "25-08-09",
+        "id": 5468,
+        "not_current_year": 1,
+        "price": 2100,
+        "registered": null,
+        "sort": "2009-08-25",
+        "volume": "100.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "26-03-2019",
+        "chartdate": "26-03-19",
+        "id": 34138,
+        "licence_security": "NSW High Security",
+        "mtime": "26/03/2019",
+        "not_current_year": 1,
+        "price": 950,
+        "shortdate": "26-03-19",
+        "sortdate": "2019-03-26",
+        "volume": "21.30",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      },
+      {
+        "approval_date": "20-03-2019",
+        "chartdate": "20-03-19",
+        "id": 34137,
+        "licence_security": "NSW High Security",
+        "mtime": "20/03/2019",
+        "not_current_year": 1,
+        "price": 950,
+        "shortdate": "20-03-19",
+        "sortdate": "2019-03-20",
+        "volume": "641.00",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      },
+      {
+        "approval_date": "16-01-2019",
+        "chartdate": "16-01-19",
+        "id": 34136,
+        "licence_security": "NSW High Security",
+        "mtime": "16/01/2019",
+        "not_current_year": 1,
+        "price": 625,
+        "shortdate": "16-01-19",
+        "sortdate": "2019-01-16",
+        "volume": "1.60",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      },
+      {
+        "approval_date": "18-02-2010",
+        "chartdate": "18-02-10",
+        "id": 5466,
+        "licence_security": "NSW High Security",
+        "mtime": "18/02/2010",
+        "not_current_year": 1,
+        "price": 933.33,
+        "shortdate": "18-02-10",
+        "sortdate": "2010-02-18",
+        "volume": "3000.00",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      },
+      {
+        "approval_date": "25-11-2009",
+        "chartdate": "25-11-09",
+        "id": 5467,
+        "licence_security": "NSW High Security",
+        "mtime": "25/11/2009",
+        "not_current_year": 1,
+        "price": 7500,
+        "shortdate": "25-11-09",
+        "sortdate": "2009-11-25",
+        "volume": "20.00",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      },
+      {
+        "approval_date": "25-08-2009",
+        "chartdate": "25-08-09",
+        "id": 5468,
+        "licence_security": "NSW High Security",
+        "mtime": "25/08/2009",
+        "not_current_year": 1,
+        "price": 2100,
+        "shortdate": "25-08-09",
+        "sortdate": "2009-08-25",
+        "volume": "100.00",
+        "wex_process": "0",
+        "zone": "NSW Namoi Valley"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "NSW Namoi Valley - High Security - Permanent Entitlement"
+  }
+]

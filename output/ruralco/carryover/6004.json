@@ -1,0 +1,386 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Carryover capacity",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "20.00",
+        "volume": "200.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "20.00",
+        "volume": "215.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "15.00",
+        "volume": "500.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "14.00",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "17.00",
+        "volume": "1235.40",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2020",
+        "agreed_date_sort": "2020-06-25 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "15.00",
+        "volume": "150.00",
+        "zone_name": "VIC Goulburn_Zone 1B"
+      },
+      {
+        "agreed": "23/06/2020",
+        "agreed_date_sort": "2020-06-23 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "300.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "23/06/2020",
+        "agreed_date_sort": "2020-06-23 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "1400.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "23/06/2020",
+        "agreed_date_sort": "2020-06-23 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "18.00",
+        "volume": "1800.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "22/06/2020",
+        "agreed_date_sort": "2020-06-22 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "33.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "80.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "15.00",
+        "volume": "165.50",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "70.00",
+        "volume": "80.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "100.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "130.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "599.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "1700.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "1200.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "1550.00",
+        "zone_name": "VIC Goulburn_Zone 1B"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "12.00",
+        "volume": "500.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "16.00",
+        "volume": "1270.10",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "1000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "15/06/2020",
+        "agreed_date_sort": "2020-06-15 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "445.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "10/06/2020",
+        "agreed_date_sort": "2020-06-10 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "72.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/06/2020",
+        "agreed_date_sort": "2020-06-03 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "18.00",
+        "volume": "50.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/06/2020",
+        "agreed_date_sort": "2020-06-03 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "513.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/06/2020",
+        "agreed_date_sort": "2020-06-03 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "16.00",
+        "volume": "46.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "03/06/2020",
+        "agreed_date_sort": "2020-06-03 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "400.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "01/06/2020",
+        "agreed_date_sort": "2020-06-01 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "200.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "01/06/2020",
+        "agreed_date_sort": "2020-06-01 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "8.00",
+        "volume": "494.50",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "01/06/2020",
+        "agreed_date_sort": "2020-06-01 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "233.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "28/05/2020",
+        "agreed_date_sort": "2020-05-28 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "197.90",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "27/05/2020",
+        "agreed_date_sort": "2020-05-27 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "100.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "27/05/2020",
+        "agreed_date_sort": "2020-05-27 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "444.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "20/05/2020",
+        "agreed_date_sort": "2020-05-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "13.50",
+        "volume": "92.80",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "19/05/2020",
+        "agreed_date_sort": "2020-05-19 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "15.00",
+        "volume": "5000.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "08/05/2020",
+        "agreed_date_sort": "2020-05-08 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "12.00",
+        "volume": "300.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "25/06/2019",
+        "agreed_date_sort": "2019-06-25 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "20.00",
+        "volume": "319.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "24/06/2019",
+        "agreed_date_sort": "2019-06-24 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "186.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "21/06/2019",
+        "agreed_date_sort": "2019-06-21 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "1428.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "20/06/2019",
+        "agreed_date_sort": "2019-06-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "153.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "20/06/2019",
+        "agreed_date_sort": "2019-06-20 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "305.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "18/06/2019",
+        "agreed_date_sort": "2019-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "595.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "18/06/2019",
+        "agreed_date_sort": "2019-06-18 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "321.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "14/06/2019",
+        "agreed_date_sort": "2019-06-14 00:00:00",
+        "ent_type": "VIC Low Reliability",
+        "price": "10.00",
+        "volume": "660.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      },
+      {
+        "agreed": "13/06/2019",
+        "agreed_date_sort": "2019-06-13 00:00:00",
+        "ent_type": "VIC High Reliability",
+        "price": "15.00",
+        "volume": "150.00",
+        "zone_name": "VIC Goulburn_Zone 1A"
+      }
+    ],
+    "zoneName": "VIC Goulburn_Zone 1"
+  }
+]

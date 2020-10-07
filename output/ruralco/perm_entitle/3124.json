@@ -1,0 +1,295 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 28513,
+        "not_current_year": 1,
+        "price": 1000,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "1.00"
+      },
+      {
+        "date": "01-03-17",
+        "id": 5850,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2017-03-01",
+        "volume": "80.00"
+      },
+      {
+        "date": "01-09-16",
+        "id": 5851,
+        "not_current_year": 1,
+        "price": 1856,
+        "registered": null,
+        "sort": "2016-09-01",
+        "volume": "1072.00"
+      },
+      {
+        "date": "01-06-16",
+        "id": 5852,
+        "not_current_year": 1,
+        "price": 1783,
+        "registered": null,
+        "sort": "2016-06-01",
+        "volume": "2674.00"
+      },
+      {
+        "date": "01-03-16",
+        "id": 5853,
+        "not_current_year": 1,
+        "price": 1900,
+        "registered": null,
+        "sort": "2016-03-01",
+        "volume": "300.00"
+      },
+      {
+        "date": "01-09-15",
+        "id": 5854,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2015-09-01",
+        "volume": "924.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5855,
+        "not_current_year": 1,
+        "price": 1873,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "1191.00"
+      },
+      {
+        "date": "01-12-14",
+        "id": 5856,
+        "not_current_year": 1,
+        "price": 1800,
+        "registered": null,
+        "sort": "2014-12-01",
+        "volume": "1017.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5857,
+        "not_current_year": 1,
+        "price": 1957,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "1519.00"
+      },
+      {
+        "date": "01-12-13",
+        "id": 5858,
+        "not_current_year": 1,
+        "price": 2022,
+        "registered": null,
+        "sort": "2013-12-01",
+        "volume": "636.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29447,
+        "not_current_year": 1,
+        "price": 1950,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "60.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 30484,
+        "not_current_year": 1,
+        "price": 1950,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "449.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28513,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 1000,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "1.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-03-2017",
+        "chartdate": "01-03-17",
+        "id": 5850,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "03/2017",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "01-03-17",
+        "sortdate": "2017-03-01",
+        "volume": "80.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-09-2016",
+        "chartdate": "01-09-16",
+        "id": 5851,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "09/2016",
+        "not_current_year": 1,
+        "price": 1856,
+        "shortdate": "01-09-16",
+        "sortdate": "2016-09-01",
+        "volume": "1072.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-06-2016",
+        "chartdate": "01-06-16",
+        "id": 5852,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "06/2016",
+        "not_current_year": 1,
+        "price": 1783,
+        "shortdate": "01-06-16",
+        "sortdate": "2016-06-01",
+        "volume": "2674.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-03-2016",
+        "chartdate": "01-03-16",
+        "id": 5853,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "03/2016",
+        "not_current_year": 1,
+        "price": 1900,
+        "shortdate": "01-03-16",
+        "sortdate": "2016-03-01",
+        "volume": "300.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-09-2015",
+        "chartdate": "01-09-15",
+        "id": 5854,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "09/2015",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "01-09-15",
+        "sortdate": "2015-09-01",
+        "volume": "924.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5855,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 1873,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "1191.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-12-2014",
+        "chartdate": "01-12-14",
+        "id": 5856,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "12/2014",
+        "not_current_year": 1,
+        "price": 1800,
+        "shortdate": "01-12-14",
+        "sortdate": "2014-12-01",
+        "volume": "1017.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5857,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 1957,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "1519.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "01-12-2013",
+        "chartdate": "01-12-13",
+        "id": 5858,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "12/2013",
+        "not_current_year": 1,
+        "price": 2022,
+        "shortdate": "01-12-13",
+        "sortdate": "2013-12-01",
+        "volume": "636.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29447,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 1950,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "60.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 30484,
+        "licence_security": "Central Condamine Alluvium",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 1950,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "449.00",
+        "wex_process": "0",
+        "zone": "QLD Groundwater"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Groundwater - Central Condamine Alluvium - Permanent Entitlement"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 28610,
+        "not_current_year": 1,
+        "price": 1117,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "4615.00"
+      },
+      {
+        "date": "01-12-15",
+        "id": 5792,
+        "not_current_year": 1,
+        "price": 254,
+        "registered": null,
+        "sort": "2015-12-01",
+        "volume": "4615.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5793,
+        "not_current_year": 1,
+        "price": 2175,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "1748.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5794,
+        "not_current_year": 1,
+        "price": 2181,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "6247.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5795,
+        "not_current_year": 1,
+        "price": 2186,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "2420.00"
+      },
+      {
+        "date": "01-06-12",
+        "id": 5796,
+        "not_current_year": 1,
+        "price": 2277,
+        "registered": null,
+        "sort": "2012-06-01",
+        "volume": "2765.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 28952,
+        "not_current_year": 1,
+        "price": 1950,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "3150.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29708,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "7.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29709,
+        "not_current_year": 1,
+        "price": 1950,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "3150.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28610,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 1117,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "4615.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "01-12-2015",
+        "chartdate": "01-12-15",
+        "id": 5792,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "12/2015",
+        "not_current_year": 1,
+        "price": 254,
+        "shortdate": "01-12-15",
+        "sortdate": "2015-12-01",
+        "volume": "4615.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5793,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 2175,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "1748.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5794,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 2181,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "6247.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5795,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 2186,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "2420.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "01-06-2012",
+        "chartdate": "01-06-12",
+        "id": 5796,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2012",
+        "not_current_year": 1,
+        "price": 2277,
+        "shortdate": "01-06-12",
+        "sortdate": "2012-06-01",
+        "volume": "2765.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 28952,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 1950,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "3150.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29708,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "7.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29709,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 1950,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "3150.00",
+        "wex_process": "0",
+        "zone": "QLD Border Rivers"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Border Rivers - Supplemented Medium Priority - Permanent Entitlement"
+  }
+]

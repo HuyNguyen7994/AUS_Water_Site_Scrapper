@@ -1,0 +1,16 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [],
+    "zoneId": 1046,
+    "zoneName": "NSW Groundwater - Lower Namoi Zone 3 - Temporary Allocation"
+  }
+]

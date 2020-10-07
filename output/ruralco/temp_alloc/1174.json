@@ -1,0 +1,16 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [],
+    "zoneId": 1174,
+    "zoneName": "QLD UPPER CONDAMINE - UCS-01 - Temporary Allocation"
+  }
+]

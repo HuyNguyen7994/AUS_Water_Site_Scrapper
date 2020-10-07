@@ -1,0 +1,16 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [],
+    "zoneId": 1314,
+    "zoneName": "Sorell (South East Stage 3) - Temporary Allocation"
+  }
+]

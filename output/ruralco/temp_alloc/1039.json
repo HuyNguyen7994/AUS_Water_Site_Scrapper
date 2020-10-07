@@ -1,0 +1,112 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "12-02-20",
+        "id": 557603,
+        "not_current_year": 1,
+        "price": "500.00",
+        "registered": null,
+        "sort": "2020-02-12",
+        "volume": "100.00"
+      },
+      {
+        "date": "05-02-20",
+        "id": 557472,
+        "not_current_year": 1,
+        "price": "530.00",
+        "registered": null,
+        "sort": "2020-02-05",
+        "volume": "100.00"
+      },
+      {
+        "date": "31-01-20",
+        "id": 557367,
+        "not_current_year": 1,
+        "price": "500.00",
+        "registered": null,
+        "sort": "2020-01-31",
+        "volume": "200.00"
+      },
+      {
+        "date": "14-01-20",
+        "id": 557019,
+        "not_current_year": 1,
+        "price": "560.00",
+        "registered": null,
+        "sort": "2020-01-14",
+        "volume": "20.00"
+      },
+      {
+        "date": "08-04-19",
+        "id": 528250,
+        "not_current_year": 1,
+        "price": "366.00",
+        "registered": null,
+        "sort": "2019-04-08",
+        "volume": "1000.00"
+      },
+      {
+        "date": "01-11-18",
+        "id": 525025,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": null,
+        "sort": "2018-11-01",
+        "volume": "300.00"
+      },
+      {
+        "date": "11-10-18",
+        "id": 524675,
+        "not_current_year": 1,
+        "price": "280.00",
+        "registered": null,
+        "sort": "2018-10-11",
+        "volume": "72.00"
+      },
+      {
+        "date": "07-09-18",
+        "id": 524091,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": null,
+        "sort": "2018-09-07",
+        "volume": "300.00"
+      },
+      {
+        "date": "21-02-18",
+        "id": 519819,
+        "not_current_year": 1,
+        "price": "125.00",
+        "registered": null,
+        "sort": "2018-02-21",
+        "volume": "600.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [
+      {
+        "authorityFees": 1,
+        "broker_individual": "Ben Williams",
+        "date": "25-09-20",
+        "orderNo": 150709,
+        "price": "150.00",
+        "sortPrice": 151,
+        "split_ml": "0.00",
+        "szone": 1039,
+        "volume": "100.00",
+        "zone": 1004,
+        "zone_name": "NSW Lower Lachlan Valley - Private Diverter"
+      }
+    ],
+    "tempAuctions": [],
+    "transactions": [],
+    "zoneId": 1039,
+    "zoneName": "NSW Upper Lachlan Valley - Jemalong Irrigation District - Temporary Allocation"
+  }
+]

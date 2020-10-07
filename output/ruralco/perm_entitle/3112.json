@@ -1,0 +1,295 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-03-17",
+        "id": 5781,
+        "not_current_year": 1,
+        "price": 700,
+        "registered": null,
+        "sort": "2017-03-01",
+        "volume": "200.00"
+      },
+      {
+        "date": "01-01-17",
+        "id": 5782,
+        "not_current_year": 1,
+        "price": 700,
+        "registered": null,
+        "sort": "2017-01-01",
+        "volume": "306.00"
+      },
+      {
+        "date": "01-10-16",
+        "id": 5783,
+        "not_current_year": 1,
+        "price": 750,
+        "registered": null,
+        "sort": "2016-10-01",
+        "volume": "50.00"
+      },
+      {
+        "date": "01-05-16",
+        "id": 5784,
+        "not_current_year": 1,
+        "price": 750,
+        "registered": null,
+        "sort": "2016-05-01",
+        "volume": "50.00"
+      },
+      {
+        "date": "01-04-16",
+        "id": 5785,
+        "not_current_year": 1,
+        "price": 1708,
+        "registered": null,
+        "sort": "2016-04-01",
+        "volume": "54.00"
+      },
+      {
+        "date": "01-03-16",
+        "id": 5786,
+        "not_current_year": 1,
+        "price": 876,
+        "registered": null,
+        "sort": "2016-03-01",
+        "volume": "510.00"
+      },
+      {
+        "date": "01-02-16",
+        "id": 5787,
+        "not_current_year": 1,
+        "price": 400,
+        "registered": null,
+        "sort": "2016-02-01",
+        "volume": "510.00"
+      },
+      {
+        "date": "01-09-15",
+        "id": 5788,
+        "not_current_year": 1,
+        "price": 825,
+        "registered": null,
+        "sort": "2015-09-01",
+        "volume": "156.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5789,
+        "not_current_year": 1,
+        "price": 749,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "699.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5790,
+        "not_current_year": 1,
+        "price": 961,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "207.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5791,
+        "not_current_year": 1,
+        "price": 4839,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "31.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29710,
+        "not_current_year": 1,
+        "price": 750,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "100.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-03-2017",
+        "chartdate": "01-03-17",
+        "id": 5781,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "03/2017",
+        "not_current_year": 1,
+        "price": 700,
+        "shortdate": "01-03-17",
+        "sortdate": "2017-03-01",
+        "volume": "200.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-01-2017",
+        "chartdate": "01-01-17",
+        "id": 5782,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "01/2017",
+        "not_current_year": 1,
+        "price": 700,
+        "shortdate": "01-01-17",
+        "sortdate": "2017-01-01",
+        "volume": "306.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-10-2016",
+        "chartdate": "01-10-16",
+        "id": 5783,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "10/2016",
+        "not_current_year": 1,
+        "price": 750,
+        "shortdate": "01-10-16",
+        "sortdate": "2016-10-01",
+        "volume": "50.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-05-2016",
+        "chartdate": "01-05-16",
+        "id": 5784,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "05/2016",
+        "not_current_year": 1,
+        "price": 750,
+        "shortdate": "01-05-16",
+        "sortdate": "2016-05-01",
+        "volume": "50.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-04-2016",
+        "chartdate": "01-04-16",
+        "id": 5785,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "04/2016",
+        "not_current_year": 1,
+        "price": 1708,
+        "shortdate": "01-04-16",
+        "sortdate": "2016-04-01",
+        "volume": "54.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-03-2016",
+        "chartdate": "01-03-16",
+        "id": 5786,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "03/2016",
+        "not_current_year": 1,
+        "price": 876,
+        "shortdate": "01-03-16",
+        "sortdate": "2016-03-01",
+        "volume": "510.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-02-2016",
+        "chartdate": "01-02-16",
+        "id": 5787,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "02/2016",
+        "not_current_year": 1,
+        "price": 400,
+        "shortdate": "01-02-16",
+        "sortdate": "2016-02-01",
+        "volume": "510.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-09-2015",
+        "chartdate": "01-09-15",
+        "id": 5788,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "09/2015",
+        "not_current_year": 1,
+        "price": 825,
+        "shortdate": "01-09-15",
+        "sortdate": "2015-09-01",
+        "volume": "156.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5789,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 749,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "699.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5790,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 961,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "207.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5791,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 4839,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "31.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29710,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 750,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "100.00",
+        "wex_process": "0",
+        "zone": "QLD Barker Barambah"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Barker Barambah - Supplemented Medium Priority - Permanent Entitlement"
+  }
+]

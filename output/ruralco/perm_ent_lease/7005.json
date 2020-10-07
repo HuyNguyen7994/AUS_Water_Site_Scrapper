@@ -1,0 +1,194 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement leases",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "09/04/2019",
+        "agreed_date_sort": "2019-04-09 00:00:00",
+        "commencement_date": "01-10-2019",
+        "duration": "3 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "360.00",
+        "start_date": "2019-10",
+        "volume": "300.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "21/03/2019",
+        "agreed_date_sort": "2019-03-21 00:00:00",
+        "commencement_date": "15-06-2019",
+        "duration": "3 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "345.00",
+        "start_date": "2019-06",
+        "volume": "70.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "16/01/2019",
+        "agreed_date_sort": "2019-01-16 00:00:00",
+        "commencement_date": "19-10-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "240.00",
+        "start_date": "2018-10",
+        "volume": "500.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "29/11/2018",
+        "agreed_date_sort": "2018-11-29 00:00:00",
+        "commencement_date": "19-10-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "240.00",
+        "start_date": "2018-10",
+        "volume": "500.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "22/11/2018",
+        "agreed_date_sort": "2018-11-22 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "245.00",
+        "start_date": "2019-07",
+        "volume": "650.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "20/11/2018",
+        "agreed_date_sort": "2018-11-20 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "245.00",
+        "start_date": "2019-07",
+        "volume": "800.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "20/11/2018",
+        "agreed_date_sort": "2018-11-20 00:00:00",
+        "commencement_date": "01-07-2019",
+        "duration": "6 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "245.00",
+        "start_date": "2019-07",
+        "volume": "1000.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "25/05/2018",
+        "agreed_date_sort": "2018-05-25 00:00:00",
+        "commencement_date": "01-07-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "175.00",
+        "start_date": "2018-07",
+        "volume": "203.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "21/05/2018",
+        "agreed_date_sort": "2018-05-21 00:00:00",
+        "commencement_date": "01-07-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "185.00",
+        "start_date": "2018-07",
+        "volume": "500.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "18/05/2018",
+        "agreed_date_sort": "2018-05-18 00:00:00",
+        "commencement_date": "01-07-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "185.00",
+        "start_date": "2018-07",
+        "volume": "400.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "15/02/2018",
+        "agreed_date_sort": "2018-02-15 00:00:00",
+        "commencement_date": "19-10-2018",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "240.00",
+        "start_date": "2018-10",
+        "volume": "1000.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "23/06/2016",
+        "agreed_date_sort": "2016-06-23 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "190.00",
+        "start_date": "2016-07",
+        "volume": "1000.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "22/06/2016",
+        "agreed_date_sort": "2016-06-22 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "190.00",
+        "start_date": "2016-07",
+        "volume": "1000.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "12/05/2016",
+        "agreed_date_sort": "2016-05-12 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "3 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "190.00",
+        "start_date": "2016-07",
+        "volume": "2000.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "14/03/2016",
+        "agreed_date_sort": "2016-03-14 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "190.00",
+        "start_date": "2016-07",
+        "volume": "750.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      },
+      {
+        "agreed": "15/01/2016",
+        "agreed_date_sort": "2016-01-15 00:00:00",
+        "commencement_date": "01-07-2016",
+        "duration": "5 years",
+        "ent_type": "SA Class 3A",
+        "initial_rental": "190.00",
+        "start_date": "2016-07",
+        "volume": "1500.00",
+        "zone_name": "SA River Murray_Zone 12 - Private Diverter"
+      }
+    ],
+    "zoneName": "SA River Murray_Zone 12"
+  }
+]

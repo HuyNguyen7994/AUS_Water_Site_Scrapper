@@ -1,0 +1,318 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 28609,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "741.00"
+      },
+      {
+        "date": "01-02-17",
+        "id": 5880,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2017-02-01",
+        "volume": "20.00"
+      },
+      {
+        "date": "01-12-16",
+        "id": 5881,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2016-12-01",
+        "volume": "64.00"
+      },
+      {
+        "date": "01-10-16",
+        "id": 5882,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2016-10-01",
+        "volume": "112.00"
+      },
+      {
+        "date": "01-05-16",
+        "id": 5883,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2016-05-01",
+        "volume": "747.00"
+      },
+      {
+        "date": "01-02-16",
+        "id": 5884,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2016-02-01",
+        "volume": "394.00"
+      },
+      {
+        "date": "01-10-15",
+        "id": 5885,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2015-10-01",
+        "volume": "3100.00"
+      },
+      {
+        "date": "01-07-15",
+        "id": 5886,
+        "not_current_year": 1,
+        "price": 1500,
+        "registered": null,
+        "sort": "2015-07-01",
+        "volume": "292.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5887,
+        "not_current_year": 1,
+        "price": 1493,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "9024.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5888,
+        "not_current_year": 1,
+        "price": 1807,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "8266.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5889,
+        "not_current_year": 1,
+        "price": 1547,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "119240.00"
+      },
+      {
+        "date": "01-06-12",
+        "id": 5890,
+        "not_current_year": 1,
+        "price": 1507,
+        "registered": null,
+        "sort": "2012-06-01",
+        "volume": "27920.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29684,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "240.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 28609,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "741.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-02-2017",
+        "chartdate": "01-02-17",
+        "id": 5880,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "02/2017",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-02-17",
+        "sortdate": "2017-02-01",
+        "volume": "20.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-12-2016",
+        "chartdate": "01-12-16",
+        "id": 5881,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "12/2016",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-12-16",
+        "sortdate": "2016-12-01",
+        "volume": "64.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-10-2016",
+        "chartdate": "01-10-16",
+        "id": 5882,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "10/2016",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-10-16",
+        "sortdate": "2016-10-01",
+        "volume": "112.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-05-2016",
+        "chartdate": "01-05-16",
+        "id": 5883,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "05/2016",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-05-16",
+        "sortdate": "2016-05-01",
+        "volume": "747.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-02-2016",
+        "chartdate": "01-02-16",
+        "id": 5884,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "02/2016",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-02-16",
+        "sortdate": "2016-02-01",
+        "volume": "394.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-10-2015",
+        "chartdate": "01-10-15",
+        "id": 5885,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "10/2015",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "01-10-15",
+        "sortdate": "2015-10-01",
+        "volume": "3100.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-07-2015",
+        "chartdate": "01-07-15",
+        "id": 5886,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "07/2015",
+        "not_current_year": 1,
+        "price": 1500,
+        "shortdate": "01-07-15",
+        "sortdate": "2015-07-01",
+        "volume": "292.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5887,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 1493,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "9024.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5888,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 1807,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "8266.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5889,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 1547,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "119240.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "01-06-2012",
+        "chartdate": "01-06-12",
+        "id": 5890,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "06/2012",
+        "not_current_year": 1,
+        "price": 1507,
+        "shortdate": "01-06-12",
+        "sortdate": "2012-06-01",
+        "volume": "27920.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29684,
+        "licence_security": "QLD Unsupplemented",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "240.00",
+        "wex_process": "0",
+        "zone": "QLD Lower Balonne"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Lower Balonne - Unsupplemented - Permanent Entitlement"
+  }
+]

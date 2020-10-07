@@ -1,0 +1,106 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Carryover capacity",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [],
+    "registryDataChart": [],
+    "registrydata": null,
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [
+      {
+        "agreed": "20/06/2020",
+        "agreed_date_sort": "2020-06-20 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "30.00",
+        "volume": "200.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Murray Irrigation Limited"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "683.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "19/06/2020",
+        "agreed_date_sort": "2020-06-19 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "567.30",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "469.70",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "18/06/2020",
+        "agreed_date_sort": "2020-06-18 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "80.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "17/06/2020",
+        "agreed_date_sort": "2020-06-17 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "35.00",
+        "volume": "50.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Murray Irrigation Limited"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "50.00",
+        "volume": "300.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Murray Irrigation Limited"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "682.50",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "16/06/2020",
+        "agreed_date_sort": "2020-06-16 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "32.50",
+        "volume": "1783.50",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Private Diverter"
+      },
+      {
+        "agreed": "20/04/2020",
+        "agreed_date_sort": "2020-04-20 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "15.00",
+        "volume": "1500.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Murray Irrigation Limited"
+      },
+      {
+        "agreed": "13/06/2019",
+        "agreed_date_sort": "2019-06-13 00:00:00",
+        "ent_type": "NSW General Security",
+        "price": "20.00",
+        "volume": "75.00",
+        "zone_name": "NSW Murray (Above Choke)_Zone 10 - Murray Irrigation Limited"
+      }
+    ],
+    "zoneName": "NSW Murray (Above Choke)_Zone 10"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-07-16",
+        "id": 5972,
+        "not_current_year": 1,
+        "price": 1000,
+        "registered": null,
+        "sort": "2016-07-01",
+        "volume": "220.00"
+      },
+      {
+        "date": "01-06-16",
+        "id": 5973,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2016-06-01",
+        "volume": "10.00"
+      },
+      {
+        "date": "01-12-15",
+        "id": 5974,
+        "not_current_year": 1,
+        "price": 1000,
+        "registered": null,
+        "sort": "2015-12-01",
+        "volume": "14.00"
+      },
+      {
+        "date": "01-06-15",
+        "id": 5975,
+        "not_current_year": 1,
+        "price": 2212,
+        "registered": null,
+        "sort": "2015-06-01",
+        "volume": "919.00"
+      },
+      {
+        "date": "01-06-14",
+        "id": 5976,
+        "not_current_year": 1,
+        "price": 510,
+        "registered": null,
+        "sort": "2014-06-01",
+        "volume": "532.00"
+      },
+      {
+        "date": "01-06-13",
+        "id": 5977,
+        "not_current_year": 1,
+        "price": 579,
+        "registered": null,
+        "sort": "2013-06-01",
+        "volume": "327.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 29669,
+        "not_current_year": 1,
+        "price": 944,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "90.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-07-2016",
+        "chartdate": "01-07-16",
+        "id": 5972,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "07/2016",
+        "not_current_year": 1,
+        "price": 1000,
+        "shortdate": "01-07-16",
+        "sortdate": "2016-07-01",
+        "volume": "220.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "01-06-2016",
+        "chartdate": "01-06-16",
+        "id": 5973,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2016",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "01-06-16",
+        "sortdate": "2016-06-01",
+        "volume": "10.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "01-12-2015",
+        "chartdate": "01-12-15",
+        "id": 5974,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "12/2015",
+        "not_current_year": 1,
+        "price": 1000,
+        "shortdate": "01-12-15",
+        "sortdate": "2015-12-01",
+        "volume": "14.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "01-06-2015",
+        "chartdate": "01-06-15",
+        "id": 5975,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2015",
+        "not_current_year": 1,
+        "price": 2212,
+        "shortdate": "01-06-15",
+        "sortdate": "2015-06-01",
+        "volume": "919.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "01-06-2014",
+        "chartdate": "01-06-14",
+        "id": 5976,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2014",
+        "not_current_year": 1,
+        "price": 510,
+        "shortdate": "01-06-14",
+        "sortdate": "2014-06-01",
+        "volume": "532.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "01-06-2013",
+        "chartdate": "01-06-13",
+        "id": 5977,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "06/2013",
+        "not_current_year": 1,
+        "price": 579,
+        "shortdate": "01-06-13",
+        "sortdate": "2013-06-01",
+        "volume": "327.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 29669,
+        "licence_security": "QLD Supplemented Medium Priority",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 944,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "90.00",
+        "wex_process": "0",
+        "zone": "QLD Upper Burnett"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Upper Burnett - Supplemented Medium Priority - Permanent Entitlement"
+  }
+]

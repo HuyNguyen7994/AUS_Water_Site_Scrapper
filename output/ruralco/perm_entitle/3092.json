@@ -1,0 +1,157 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "30-09-20",
+        "id": 41684,
+        "not_current_year": 0,
+        "price": 4500,
+        "registered": null,
+        "sort": "2020-09-30",
+        "volume": "5.00"
+      },
+      {
+        "date": "08-01-20",
+        "id": 40128,
+        "not_current_year": 1,
+        "price": 4500,
+        "registered": null,
+        "sort": "2020-01-08",
+        "volume": "1722.00"
+      },
+      {
+        "date": "10-09-13",
+        "id": 2266,
+        "not_current_year": 1,
+        "price": 1200,
+        "registered": null,
+        "sort": "2013-09-10",
+        "volume": "250.00"
+      },
+      {
+        "date": "06-07-10",
+        "id": 2267,
+        "not_current_year": 1,
+        "price": 1600,
+        "registered": null,
+        "sort": "2010-07-06",
+        "volume": "1000.00"
+      },
+      {
+        "date": "11-11-08",
+        "id": 2268,
+        "not_current_year": 1,
+        "price": 2200,
+        "registered": null,
+        "sort": "2008-11-11",
+        "volume": "300.00"
+      },
+      {
+        "date": "04-08-08",
+        "id": 2269,
+        "not_current_year": 1,
+        "price": 1400,
+        "registered": null,
+        "sort": "2008-08-04",
+        "volume": "80.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "30-09-2020",
+        "chartdate": "30-09-20",
+        "id": 41684,
+        "licence_security": "NSW High Security",
+        "mtime": "30/09/2020",
+        "not_current_year": 0,
+        "price": 4500,
+        "shortdate": "30-09-20",
+        "sortdate": "2020-09-30",
+        "volume": "5.00",
+        "wex_process": "1",
+        "zone": "NSW Lower Lachlan Valley"
+      },
+      {
+        "approval_date": "08-01-2020",
+        "chartdate": "08-01-20",
+        "id": 40128,
+        "licence_security": "NSW High Security",
+        "mtime": "08/01/2020",
+        "not_current_year": 1,
+        "price": 4500,
+        "shortdate": "08-01-20",
+        "sortdate": "2020-01-08",
+        "volume": "1722.00",
+        "wex_process": "0",
+        "zone": "NSW Lower Lachlan Valley"
+      },
+      {
+        "approval_date": "10-09-2013",
+        "chartdate": "10-09-13",
+        "id": 2266,
+        "licence_security": "NSW High Security",
+        "mtime": "10/09/2013",
+        "not_current_year": 1,
+        "price": 1200,
+        "shortdate": "10-09-13",
+        "sortdate": "2013-09-10",
+        "volume": "250.00",
+        "wex_process": "0",
+        "zone": "NSW Lower Lachlan Valley"
+      },
+      {
+        "approval_date": "06-07-2010",
+        "chartdate": "06-07-10",
+        "id": 2267,
+        "licence_security": "NSW High Security",
+        "mtime": "06/07/2010",
+        "not_current_year": 1,
+        "price": 1600,
+        "shortdate": "06-07-10",
+        "sortdate": "2010-07-06",
+        "volume": "1000.00",
+        "wex_process": "0",
+        "zone": "NSW Lower Lachlan Valley"
+      },
+      {
+        "approval_date": "11-11-2008",
+        "chartdate": "11-11-08",
+        "id": 2268,
+        "licence_security": "NSW High Security",
+        "mtime": "11/11/2008",
+        "not_current_year": 1,
+        "price": 2200,
+        "shortdate": "11-11-08",
+        "sortdate": "2008-11-11",
+        "volume": "300.00",
+        "wex_process": "0",
+        "zone": "NSW Lower Lachlan Valley"
+      },
+      {
+        "approval_date": "04-08-2008",
+        "chartdate": "04-08-08",
+        "id": 2269,
+        "licence_security": "NSW High Security",
+        "mtime": "04/08/2008",
+        "not_current_year": 1,
+        "price": 1400,
+        "shortdate": "04-08-08",
+        "sortdate": "2008-08-04",
+        "volume": "80.00",
+        "wex_process": "0",
+        "zone": "NSW Lower Lachlan Valley"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "NSW Lower Lachlan Valley - High Security - Permanent Entitlement"
+  }
+]

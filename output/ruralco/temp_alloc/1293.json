@@ -1,0 +1,54 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "18-02-19",
+        "id": 527194,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": null,
+        "sort": "2019-02-18",
+        "volume": "165.00"
+      },
+      {
+        "date": "18-02-19",
+        "id": 527179,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": null,
+        "sort": "2019-02-18",
+        "volume": "50.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "18-02-19",
+        "id": 527194,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": "04-03-19",
+        "sort": "2019-02-18",
+        "volume": "165.00"
+      },
+      {
+        "date": "18-02-19",
+        "id": 527179,
+        "not_current_year": 1,
+        "price": "300.00",
+        "registered": "04-03-19",
+        "sort": "2019-02-18",
+        "volume": "50.00"
+      }
+    ],
+    "zoneId": 1293,
+    "zoneName": "NSW Groundwater - Upper Namoi Zone 3 - Temporary Allocation"
+  }
+]

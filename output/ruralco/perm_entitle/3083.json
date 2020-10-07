@@ -1,0 +1,111 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "17-01-17",
+        "id": 2603,
+        "not_current_year": 1,
+        "price": 1850,
+        "registered": null,
+        "sort": "2017-01-17",
+        "volume": "256.00"
+      },
+      {
+        "date": "08-08-16",
+        "id": 2604,
+        "not_current_year": 1,
+        "price": 1500,
+        "registered": null,
+        "sort": "2016-08-08",
+        "volume": "352.00"
+      },
+      {
+        "date": "08-12-14",
+        "id": 2605,
+        "not_current_year": 1,
+        "price": 1760,
+        "registered": null,
+        "sort": "2014-12-08",
+        "volume": "570.00"
+      },
+      {
+        "date": "14-02-11",
+        "id": 2606,
+        "not_current_year": 1,
+        "price": 1400,
+        "registered": null,
+        "sort": "2011-02-14",
+        "volume": "256.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "17-01-2017",
+        "chartdate": "17-01-17",
+        "id": 2603,
+        "licence_security": "Ground water",
+        "mtime": "17/01/2017",
+        "not_current_year": 1,
+        "price": 1850,
+        "shortdate": "17-01-17",
+        "sortdate": "2017-01-17",
+        "volume": "256.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-08-2016",
+        "chartdate": "08-08-16",
+        "id": 2604,
+        "licence_security": "Ground water",
+        "mtime": "08/08/2016",
+        "not_current_year": 1,
+        "price": 1500,
+        "shortdate": "08-08-16",
+        "sortdate": "2016-08-08",
+        "volume": "352.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-12-2014",
+        "chartdate": "08-12-14",
+        "id": 2605,
+        "licence_security": "Ground water",
+        "mtime": "08/12/2014",
+        "not_current_year": 1,
+        "price": 1760,
+        "shortdate": "08-12-14",
+        "sortdate": "2014-12-08",
+        "volume": "570.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "14-02-2011",
+        "chartdate": "14-02-11",
+        "id": 2606,
+        "licence_security": "Ground water",
+        "mtime": "14/02/2011",
+        "not_current_year": 1,
+        "price": 1400,
+        "shortdate": "14-02-11",
+        "sortdate": "2011-02-14",
+        "volume": "256.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "NSW Groundwater - Lower Namoi Zone 3 Groundwater - Permanent Entitlement"
+  }
+]

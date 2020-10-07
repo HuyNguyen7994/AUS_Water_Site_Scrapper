@@ -1,0 +1,36 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "17-05-16",
+        "id": 512765,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": null,
+        "sort": "2016-05-17",
+        "volume": "50.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "17-05-16",
+        "id": 512765,
+        "not_current_year": 1,
+        "price": "80.00",
+        "registered": "06-06-16",
+        "sort": "2016-05-17",
+        "volume": "50.00"
+      }
+    ],
+    "zoneId": 1141,
+    "zoneName": "QLD MAREEBA DIMBULAH - EAST BARRON - Temporary Allocation"
+  }
+]

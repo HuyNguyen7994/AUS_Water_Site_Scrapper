@@ -1,0 +1,203 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "18-02-20",
+        "id": 40625,
+        "not_current_year": 1,
+        "price": 3800,
+        "registered": null,
+        "sort": "2020-02-18",
+        "volume": "50.00"
+      },
+      {
+        "date": "08-01-20",
+        "id": 40092,
+        "not_current_year": 1,
+        "price": 3500,
+        "registered": null,
+        "sort": "2020-01-08",
+        "volume": "1800.00"
+      },
+      {
+        "date": "08-01-20",
+        "id": 40093,
+        "not_current_year": 1,
+        "price": 3500,
+        "registered": null,
+        "sort": "2020-01-08",
+        "volume": "1484.00"
+      },
+      {
+        "date": "08-01-20",
+        "id": 40094,
+        "not_current_year": 1,
+        "price": 3500,
+        "registered": null,
+        "sort": "2020-01-08",
+        "volume": "5198.00"
+      },
+      {
+        "date": "02-07-19",
+        "id": 34583,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2019-07-02",
+        "volume": "865.00"
+      },
+      {
+        "date": "06-12-18",
+        "id": 33354,
+        "not_current_year": 1,
+        "price": 3000,
+        "registered": null,
+        "sort": "2018-12-06",
+        "volume": "150.00"
+      },
+      {
+        "date": "08-12-17",
+        "id": 30935,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "2017-12-08",
+        "volume": "638.00"
+      },
+      {
+        "date": "00-00-00",
+        "id": 30934,
+        "not_current_year": 1,
+        "price": 2000,
+        "registered": null,
+        "sort": "0000-00-00",
+        "volume": "638.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "18-02-2020",
+        "chartdate": "18-02-20",
+        "id": 40625,
+        "licence_security": "Ground water",
+        "mtime": "18/02/2020",
+        "not_current_year": 1,
+        "price": 3800,
+        "shortdate": "18-02-20",
+        "sortdate": "2020-02-18",
+        "volume": "50.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-01-2020",
+        "chartdate": "08-01-20",
+        "id": 40092,
+        "licence_security": "Ground water",
+        "mtime": "08/01/2020",
+        "not_current_year": 1,
+        "price": 3500,
+        "shortdate": "08-01-20",
+        "sortdate": "2020-01-08",
+        "volume": "1800.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-01-2020",
+        "chartdate": "08-01-20",
+        "id": 40093,
+        "licence_security": "Ground water",
+        "mtime": "08/01/2020",
+        "not_current_year": 1,
+        "price": 3500,
+        "shortdate": "08-01-20",
+        "sortdate": "2020-01-08",
+        "volume": "1484.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-01-2020",
+        "chartdate": "08-01-20",
+        "id": 40094,
+        "licence_security": "Ground water",
+        "mtime": "08/01/2020",
+        "not_current_year": 1,
+        "price": 3500,
+        "shortdate": "08-01-20",
+        "sortdate": "2020-01-08",
+        "volume": "5198.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "02-07-2019",
+        "chartdate": "02-07-19",
+        "id": 34583,
+        "licence_security": "Ground water",
+        "mtime": "02/07/2019",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "02-07-19",
+        "sortdate": "2019-07-02",
+        "volume": "865.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "06-12-2018",
+        "chartdate": "06-12-18",
+        "id": 33354,
+        "licence_security": "Ground water",
+        "mtime": "06/12/2018",
+        "not_current_year": 1,
+        "price": 3000,
+        "shortdate": "06-12-18",
+        "sortdate": "2018-12-06",
+        "volume": "150.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "08-12-2017",
+        "chartdate": "08-12-17",
+        "id": 30935,
+        "licence_security": "Ground water",
+        "mtime": "08/12/2017",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "08-12-17",
+        "sortdate": "2017-12-08",
+        "volume": "638.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      },
+      {
+        "approval_date": "00-00-0000",
+        "chartdate": "00-00-00",
+        "id": 30934,
+        "licence_security": "Ground water",
+        "mtime": "",
+        "not_current_year": 1,
+        "price": 2000,
+        "shortdate": "",
+        "sortdate": "0000-00-00",
+        "volume": "638.00",
+        "wex_process": "0",
+        "zone": "NSW Groundwater"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "NSW Groundwater - Lower Lachlan Groundwater - Permanent Entitlement"
+  }
+]

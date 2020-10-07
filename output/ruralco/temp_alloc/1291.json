@@ -1,0 +1,90 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "buyOrders": [],
+    "historicalData": [
+      {
+        "date": "29-01-20",
+        "id": 557281,
+        "not_current_year": 1,
+        "price": "251.00",
+        "registered": null,
+        "sort": "2020-01-29",
+        "volume": "80.00"
+      },
+      {
+        "date": "03-10-19",
+        "id": 531884,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": null,
+        "sort": "2019-10-03",
+        "volume": "100.00"
+      },
+      {
+        "date": "13-03-19",
+        "id": 527686,
+        "not_current_year": 1,
+        "price": "190.00",
+        "registered": null,
+        "sort": "2019-03-13",
+        "volume": "25.00"
+      },
+      {
+        "date": "19-09-18",
+        "id": 524321,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": null,
+        "sort": "2018-09-19",
+        "volume": "185.00"
+      }
+    ],
+    "registryDataCount": 0,
+    "registrydata": [],
+    "sellOrders": [],
+    "tempAuctions": [],
+    "transactions": [
+      {
+        "date": "29-01-20",
+        "id": 557281,
+        "not_current_year": 1,
+        "price": "251.00",
+        "registered": "07-04-20",
+        "sort": "2020-01-29",
+        "volume": "80.00"
+      },
+      {
+        "date": "03-10-19",
+        "id": 531884,
+        "not_current_year": 1,
+        "price": "200.00",
+        "registered": "12-11-19",
+        "sort": "2019-10-03",
+        "volume": "100.00"
+      },
+      {
+        "date": "13-03-19",
+        "id": 527686,
+        "not_current_year": 1,
+        "price": "190.00",
+        "registered": "23-05-19",
+        "sort": "2019-03-13",
+        "volume": "25.00"
+      },
+      {
+        "date": "19-09-18",
+        "id": 524321,
+        "not_current_year": 1,
+        "price": "100.00",
+        "registered": "25-10-18",
+        "sort": "2018-09-19",
+        "volume": "185.00"
+      }
+    ],
+    "zoneId": 1291,
+    "zoneName": "VIC Groundwater - Katunga 1062 - Temporary Allocation"
+  }
+]

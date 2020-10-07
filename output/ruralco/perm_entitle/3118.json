@@ -1,0 +1,42 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "01-06-17",
+        "id": 5817,
+        "not_current_year": 1,
+        "price": 0,
+        "registered": null,
+        "sort": "2017-06-01",
+        "volume": "0.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "01-06-2017",
+        "chartdate": "01-06-17",
+        "id": 5817,
+        "licence_security": "QLD Supplemented High Priority",
+        "mtime": "06/2017",
+        "not_current_year": 1,
+        "price": 0,
+        "shortdate": "01-06-17",
+        "sortdate": "2017-06-01",
+        "volume": "0.00",
+        "wex_process": "0",
+        "zone": "QLD Burdekin Haughton"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "QLD Burdekin Haughton - Supplemented High Priority - Permanent Entitlement"
+  }
+]

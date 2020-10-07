@@ -1,0 +1,65 @@
+[
+  {
+    "alg": "HS256"
+  },
+  {
+    "auctioncolheader": "Permanent entitlement",
+    "buyOrders": [],
+    "end_date": "2021-06-30",
+    "historicalData": [
+      {
+        "date": "29-03-19",
+        "id": 34378,
+        "not_current_year": 1,
+        "price": 1689.66,
+        "registered": null,
+        "sort": "2019-03-29",
+        "volume": "29.00"
+      },
+      {
+        "date": "30-10-07",
+        "id": 3177,
+        "not_current_year": 1,
+        "price": 200,
+        "registered": null,
+        "sort": "2007-10-30",
+        "volume": "100000.00"
+      }
+    ],
+    "registryDataChart": [],
+    "registrydata": [
+      {
+        "approval_date": "29-03-2019",
+        "chartdate": "29-03-19",
+        "id": 34378,
+        "licence_security": "NSW Supplementary",
+        "mtime": "29/03/2019",
+        "not_current_year": 1,
+        "price": 1689.66,
+        "shortdate": "29-03-19",
+        "sortdate": "2019-03-29",
+        "volume": "29.00",
+        "wex_process": "0",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      },
+      {
+        "approval_date": "30-10-2007",
+        "chartdate": "30-10-07",
+        "id": 3177,
+        "licence_security": "NSW Supplementary",
+        "mtime": "30/10/2007",
+        "not_current_year": 1,
+        "price": 200,
+        "shortdate": "30-10-07",
+        "sortdate": "2007-10-30",
+        "volume": "100000.00",
+        "wex_process": "0",
+        "zone": "NSW Murray (Above Choke)_Zone 10"
+      }
+    ],
+    "sellOrders": [],
+    "start_date": "2020-07-01",
+    "transactions": [],
+    "zoneName": "NSW Murray (Above Choke)_Zone 10 - Supplementary - Permanent Entitlement"
+  }
+]
