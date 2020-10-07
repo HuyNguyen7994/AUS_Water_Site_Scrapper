@@ -34,7 +34,7 @@ def get_table_temp_perma(soup):
         for i,row in enumerate(body):
             assert df.iloc[i,0] == row.find('a')['data-tradeid'], 'DataFrame and HTML table are not aligned'
             df.iloc[i,-1] = ';'.join([z_dict[id_.split('-')[-1]] for id_ in row['class']])
-        js_dict[header] = df.to_dict()
+        js_dict[header] = json.loads(df.to_json(orient='records'))
     return js_dict
 
 def get_soup(link):
@@ -48,7 +48,7 @@ def get_table_forward(soup):
         df = pd.read_html(str(table))
         assert len(df) == 1, 'Corrupted table structure. More than 1 found.'
         df = df[0]
-        js_dict[header] = df.to_dict()
+        js_dict[header] = json.loads(df.to_json(orient='records'))
     return js_dict
   
 def get_table_last_trades(soup):
